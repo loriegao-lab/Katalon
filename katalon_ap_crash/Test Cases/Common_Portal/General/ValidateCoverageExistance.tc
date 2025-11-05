@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ValidateCoverageExistance</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>718ac028-80b8-479e-ab06-ecaff2378f91</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7c9ea0c0-5937-45e6-9307-20f09e34683e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>[:]</defaultValue>
+      <description></description>
+      <id>7c9ea0c0-5937-45e6-9307-20f09e34683e</id>
+      <masked>false</masked>
+      <name>coverageTypeMap</name>
+   </variable>
+</TestCaseEntity>

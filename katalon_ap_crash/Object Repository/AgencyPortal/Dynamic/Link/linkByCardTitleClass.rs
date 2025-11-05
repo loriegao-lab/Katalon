@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>linkByCardTitleClass</name>
+   <tag></tag>
+   <elementGuidId>fa4795ff-c4ce-48d9-8ecd-44ec25266cbb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//h2[text()='${text}']/following::div[@class='icon-slat-content']//h4/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//h2[text()='${text}']/following::div[@class='icon-slat-content']//h4/a</value>
+      <webElementGuid>6a27717e-5301-478f-b9ae-b2f52c842a56</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

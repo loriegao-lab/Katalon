@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tableCellByTitleRowCol</name>
+   <tag></tag>
+   <elementGuidId>229cf71d-5a2b-48d8-a283-57484f33f25e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//span[text()='${title}']/ancestor::table)[last()]//tbody//tr[not(contains(@class,'gw-header'))][${row}]//td[${col}]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//span[text()='${title}']/ancestor::table)[last()]//tbody//tr[not(contains(@class,'gw-header'))][${row}]//td[${col}]</value>
+      <webElementGuid>07d3b0a8-3c7a-4cfd-9008-2123f4912382</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

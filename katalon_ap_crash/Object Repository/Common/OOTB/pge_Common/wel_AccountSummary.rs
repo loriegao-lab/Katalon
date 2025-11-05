@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>wel_AccountSummary</name>
+   <tag></tag>
+   <elementGuidId>702861c3-e663-49fd-9464-22b5c4b9a9b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class = 'gw-TitleBar--title' and (contains(text(), 'Account Summary') or contains(., 'Account Summary'))]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9d586671-d2b4-4631-9ec2-8213f8f6b4aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gw-TitleBar--title</value>
+      <webElementGuid>44bd1858-0cd0-475f-bb22-cc31f28b7390</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Account Summary</value>
+      <webElementGuid>60d076a7-b55e-4d13-b995-b8e8a256ec26</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

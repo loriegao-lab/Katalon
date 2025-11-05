@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_subHeader</name>
+   <tag></tag>
+   <elementGuidId>545ea0c0-aeae-46ee-9ea9-2c08f6848222</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//h2[text()='${text}']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//h2[text()='${text}']</value>
+      <webElementGuid>156676c6-0d94-4c00-a226-969aa1b06bb5</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

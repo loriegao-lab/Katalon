@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>linkByTextAbove</name>
+   <tag></tag>
+   <elementGuidId>2ca913f8-b84b-4ab3-9830-05dffa2dbbde</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[text()='${text}']/ancestor::div[@class='row']//a[@class='squared-white-button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[text()='${text}']/ancestor::div[@class='row']//a[@class='squared-white-button']</value>
+      <webElementGuid>8486073d-c603-4442-8790-74a420ea6340</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

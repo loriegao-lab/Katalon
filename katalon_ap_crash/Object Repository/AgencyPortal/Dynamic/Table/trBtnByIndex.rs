@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>trBtnByIndex</name>
+   <tag></tag>
+   <elementGuidId>638d63d7-8618-4e11-98cb-46d790ac073e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//tr[@role='button'])[${index}]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//tr[@role='button'])[${index}]</value>
+      <webElementGuid>bab50d7a-8ee3-4095-994e-aa88b068d652</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GoToPolicyByCaseID</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2e679b19-8a1c-4dc6-ba8e-815ea0766ab1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5b3f48d1-619c-4001-aa9c-f7f7eabef3ef</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>97188f2f-9152-4990-8379-014d76d63fdc</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5b3f48d1-619c-4001-aa9c-f7f7eabef3ef</id>
+      <masked>false</masked>
+      <name>policyNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>97188f2f-9152-4990-8379-014d76d63fdc</id>
+      <masked>false</masked>
+      <name>caseID</name>
+   </variable>
+</TestCaseEntity>

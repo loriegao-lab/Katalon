@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnByTextUnderSubHeader</name>
+   <tag></tag>
+   <elementGuidId>a3660a38-32c4-4ef9-a7b4-aa3af5ee748b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//h2[text()='${text}']/following-sibling::div/div//button[text()='${btnName}']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//h2[text()='${text}']/following-sibling::div/div//button[text()='${btnName}']</value>
+      <webElementGuid>cf18b980-44e9-4a13-9a7e-3a9f7caef5af</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

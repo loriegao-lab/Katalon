@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>listItemLinkByText</name>
+   <tag></tag>
+   <elementGuidId>10e0aa15-d182-4b2c-8c6e-dbebf7f1bf98</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//ul[@role='tablist']/li/a[text()='${text}']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//ul[@role='tablist']/li/a[text()='${text}']</value>
+      <webElementGuid>2d265e07-c6d2-4e4f-a61a-ac00f9ef715a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

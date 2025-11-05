@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>leftMenuByText</name>
+   <tag></tag>
+   <elementGuidId>25f4eb71-7e32-4ac8-82b7-003b2bc7c168</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id='gw-west-panel']//div[text()='${text}']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id='gw-west-panel']//div[text()='${text}']</value>
+      <webElementGuid>312acbab-d76a-4bcb-8178-cc58ee471bd6</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

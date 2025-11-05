@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ESignatureProcess</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1cab58d5-a7d6-45fb-ac84-e0429c2a2d4d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>92d99f77-5a2c-4000-ad4b-824bbda45451</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>71716aee-058f-418b-b1fe-32576a7ba507</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>92d99f77-5a2c-4000-ad4b-824bbda45451</id>
+      <masked>false</masked>
+      <name>submissionNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>15</defaultValue>
+      <description></description>
+      <id>71716aee-058f-418b-b1fe-32576a7ba507</id>
+      <masked>false</masked>
+      <name>max_refresh</name>
+   </variable>
+</TestCaseEntity>

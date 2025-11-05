@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tableSpanByTitle</name>
+   <tag></tag>
+   <elementGuidId>f64467fb-4c97-4996-b013-27afeb7e1a3d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//td[@title='${title}']/..//span//span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//td[@title='${title}']/..//span//span</value>
+      <webElementGuid>134eef58-8454-4312-8bc0-4bf05ba3cf50</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

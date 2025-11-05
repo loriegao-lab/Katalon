@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tableBtnByTitleRowColText</name>
+   <tag></tag>
+   <elementGuidId>cf87950e-471d-4218-908f-25cdf87c4a50</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[contains(text(),'${title}')]/following::table[1]//tr[not(contains(@class,'gw-header'))][${row}]/td[${col}]//div[@role='button']//div[text()='${text}']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[contains(text(),'${title}')]/following::table[1]//tr[not(contains(@class,'gw-header'))][${row}]/td[${col}]//div[@role='button']//div[text()='${text}']</value>
+      <webElementGuid>f9c92b1a-96b5-47bd-ae05-b6bd737e6f38</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

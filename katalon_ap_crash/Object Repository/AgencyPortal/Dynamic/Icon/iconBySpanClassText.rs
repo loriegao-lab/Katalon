@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>iconBySpanClassText</name>
+   <tag></tag>
+   <elementGuidId>9a4b4b20-cc81-45d5-8829-f00c16927fdc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@class='${text}']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[@class='${text}']</value>
+      <webElementGuid>6d3d8500-8628-47bb-b63a-fa0c53c3aaa2</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

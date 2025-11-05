@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>requiredSpanByTextBefore</name>
+   <tag></tag>
+   <elementGuidId>cce9ebaf-1219-4af6-b3fe-a8aa766546d1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[text()='${text}']/preceding-sibling::span[@class='required']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[text()='${text}']/preceding-sibling::span[@class='required']</value>
+      <webElementGuid>9b1cf9a1-064b-4f0e-9bb4-aa51f9a49ef9</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

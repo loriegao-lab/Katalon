@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>checkboxUnderSection</name>
+   <tag></tag>
+   <elementGuidId>301ed35d-9913-451d-9def-134dc0a370db</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//h3[text()='${text}']/ancestor::div[@class='section-header']/following-sibling::div//tbody//tr//td//md-checkbox</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//h3[text()='${text}']/ancestor::div[@class='section-header']/following-sibling::div//tbody//tr//td//md-checkbox</value>
+      <webElementGuid>29620708-3fef-4182-99e4-d37f78346335</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

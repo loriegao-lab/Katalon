@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>divInputByTextReadOnly</name>
+   <tag></tag>
+   <elementGuidId>cee22663-f35d-4fbb-80bd-48a984676af9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[text()='${text}']/following-sibling::div[@class='gw-value']//div[@class='gw-value-readonly-wrapper']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[text()='${text}']/following-sibling::div[@class='gw-value']//div[@class='gw-value-readonly-wrapper']</value>
+      <webElementGuid>dca5a531-9abd-4491-a773-10e0cd94a9a0</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

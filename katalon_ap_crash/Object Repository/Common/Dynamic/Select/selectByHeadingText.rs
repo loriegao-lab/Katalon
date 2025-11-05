@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>selectByHeadingText</name>
+   <tag></tag>
+   <elementGuidId>3eb2dc11-9883-45aa-bc45-3733fde051db</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[text()='${text}']/ancestor::div[@role='heading'])[last()]/following::div//select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[text()='${text}']/ancestor::div[@role='heading'])[last()]/following::div//select</value>
+      <webElementGuid>801d467e-edde-4305-9c70-005a057ce73d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

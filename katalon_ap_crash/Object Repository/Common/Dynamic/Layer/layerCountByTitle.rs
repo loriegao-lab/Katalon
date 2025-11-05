@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>layerCountByTitle</name>
+   <tag></tag>
+   <elementGuidId>665e228b-c622-489d-8001-4d852b8cd29f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[text()='${title}']/ancestor::div[@role='tablist']/following-sibling::*//div[@role='tablist']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[text()='${title}']/ancestor::div[@role='tablist']/following-sibling::*//div[@role='tablist']</value>
+      <webElementGuid>cea8a199-a170-46d4-a1a7-0b983d06a729</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

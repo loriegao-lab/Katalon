@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>selectOptionByTitleLabelAndOptionContainsText</name>
+   <tag></tag>
+   <elementGuidId>d2892b29-a369-4893-91d3-9f4a34a33901</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[text()='${title}']//following::div[text()='${text}']//following-sibling::div//select//option[contains(text(),'${option}')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[text()='${title}']//following::div[text()='${text}']//following-sibling::div//select//option[contains(text(),'${option}')]</value>
+      <webElementGuid>162dda32-9319-4b4d-a6e0-7a95a8a91430</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>homePageLogo</name>
+   <tag></tag>
+   <elementGuidId>a915a024-f954-49c6-9dea-0297bdd4d0dc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class='logo-wrapper']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class='logo-wrapper']</value>
+      <webElementGuid>d5d4ae09-42e6-4aed-98d5-ceafdf2c4087</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

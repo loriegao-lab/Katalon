@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>embedByText</name>
+   <tag></tag>
+   <elementGuidId>0b34ce27-5756-4542-8f80-9283fd174e4c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//embed</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//embed</value>
+      <webElementGuid>d47cb719-d48f-478f-b486-8dffcdb30058</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tabByTitleLayerIndex</name>
+   <tag></tag>
+   <elementGuidId>4cf519cd-f2f6-45c0-989e-8260d17da88e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[text()='${title}']/ancestor::div[@role='tablist']/following-sibling::*//div[@role='tablist'])[${layer}]//div[@role='tab'][@aria-posinset='${index}']//div[@class='gw-label']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[text()='${title}']/ancestor::div[@role='tablist']/following-sibling::*//div[@role='tablist'])[${layer}]//div[@role='tab'][@aria-posinset='${index}']//div[@class='gw-label']</value>
+      <webElementGuid>bd9adb02-5cb9-4518-879f-7516c8f17fc9</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

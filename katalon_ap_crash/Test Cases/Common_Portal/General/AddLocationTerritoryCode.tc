@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Add territory code to existing location</description>
+   <name>AddLocationTerritoryCode</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>866d882c-5f83-4ee4-a8f9-2e476fcb8cf1</testCaseGuid>
+</TestCaseEntity>

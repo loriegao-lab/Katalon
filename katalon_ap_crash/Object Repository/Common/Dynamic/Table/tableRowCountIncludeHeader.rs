@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tableRowCountIncludeHeader</name>
+   <tag></tag>
+   <elementGuidId>20a4eb5a-c6de-4d77-8950-0f0ebc79214c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div//table//tr</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div//table//tr</value>
+      <webElementGuid>e8b7dc7d-fbd3-43e1-81c3-66dda2471af0</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

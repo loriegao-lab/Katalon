@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>divUnderSpanContainsText</name>
+   <tag></tag>
+   <elementGuidId>886c0183-7b36-4906-bdb1-059c6d157d49</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[contains(text(),'${text}')]//..//../../../following-sibling::div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[contains(text(),'${text}')]//..//../../../following-sibling::div</value>
+      <webElementGuid>2ee369ae-2f0d-448c-a123-b70bdb3bbca0</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>spanByHeaderContentText</name>
+   <tag></tag>
+   <elementGuidId>28f5eee9-bb4c-4db3-98bf-57efc88423d9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[normalize-space(text())='${text}']/ancestor::div[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[normalize-space(text())='${text}']/ancestor::div[3]/div</value>
+      <webElementGuid>03fb351e-d314-41ab-9980-2fb5f092b7c5</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

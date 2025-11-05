@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ClickBtnByTextAbove</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bf86f201-8c61-4b07-8df3-d1132aac4a70</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b7d20c3f-b81e-405f-8459-ef070df9be0b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>479ad295-ba26-4d2a-b2ad-fb0e2d89e78a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b7d20c3f-b81e-405f-8459-ef070df9be0b</id>
+      <masked>false</masked>
+      <name>title</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>479ad295-ba26-4d2a-b2ad-fb0e2d89e78a</id>
+      <masked>false</masked>
+      <name>option</name>
+   </variable>
+</TestCaseEntity>

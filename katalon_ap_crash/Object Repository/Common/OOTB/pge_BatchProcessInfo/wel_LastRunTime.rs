@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>wel_LastRunTime</name>
+   <tag></tag>
+   <elementGuidId>6bd3727b-ae4b-45a5-8c19-d062a7c93b4c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//td[contains(@id, '${item}-LastRun_Cell')]/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>BatchProcessesLV-${item}-LastRun</value>
+      <webElementGuid>caf0cd44-fc95-4526-bb85-32515dbcf42c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>581e5106-d9e8-41ba-8591-dde0a6b3f931</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gw-value-readonly-wrapper</value>
+      <webElementGuid>0884e7e1-c15c-40d5-b42b-e90301b1800b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//td[contains(@id, '${item}-LastRun_Cell')]/div/div/div/div</value>
+      <webElementGuid>be31995c-34cd-4d55-bc2f-fcfc21938dcd</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

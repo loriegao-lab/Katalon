@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_PolicyPeriod</name>
+   <tag></tag>
+   <elementGuidId>1a0a5fe7-a6b9-4da5-82fb-08f7fe603832</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//h5[text()]/following-sibling::div[@class='white-text-bold-10']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//h5[text()]/following-sibling::div[@class='white-text-bold-10']</value>
+      <webElementGuid>92a2d99b-34fc-4d26-8672-a744003dde45</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

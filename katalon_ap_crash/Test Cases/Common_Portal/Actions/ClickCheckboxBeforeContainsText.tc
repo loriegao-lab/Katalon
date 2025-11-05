@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ClickCheckboxBeforeContainsText</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6394e783-44e9-4b3f-b6e5-367644faec46</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a73a30df-45a2-46a7-9028-2298bffd3919</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a73a30df-45a2-46a7-9028-2298bffd3919</id>
+      <masked>false</masked>
+      <name>scroll</name>
+   </variable>
+</TestCaseEntity>

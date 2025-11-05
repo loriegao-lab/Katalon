@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GoToAccountByAccountNo</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ebe1ae8d-85d3-4973-8243-95a9de8c0ee7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>52541de0-8247-4fbe-bb0a-478ed89ed034</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>52541de0-8247-4fbe-bb0a-478ed89ed034</id>
+      <masked>false</masked>
+      <name>accountNumber</name>
+   </variable>
+</TestCaseEntity>

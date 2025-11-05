@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>titleByText</name>
+   <tag></tag>
+   <elementGuidId>e1e040a8-8549-4023-b4f8-6110d45afea8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id='gw-west-panel']//div[text()='${text}']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id='gw-west-panel']//div[text()='${text}']</value>
+      <webElementGuid>91d96a6f-23e2-4f7c-8378-2c07be26f28d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

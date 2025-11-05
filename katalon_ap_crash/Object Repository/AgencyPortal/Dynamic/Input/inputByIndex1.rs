@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>inputByIndex1</name>
+   <tag></tag>
+   <elementGuidId>1893ad9c-e9c0-40e1-9dec-a63e30fff1aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//md-input-container//textarea)[${index}]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//md-input-container//textarea)[${index}]</value>
+      <webElementGuid>97d3dd0b-87c7-4a8f-8ef2-ca9b9d23173c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

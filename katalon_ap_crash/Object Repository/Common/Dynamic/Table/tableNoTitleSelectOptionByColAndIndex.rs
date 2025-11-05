@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tableNoTitleSelectOptionByColAndIndex</name>
+   <tag></tag>
+   <elementGuidId>95331fba-7e4b-4f18-888c-eff284ff65c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//table[not(@role='list')]//tr[not(contains(@class,'gw-header'))]//td[${col}]//select//option[@selected])[${index}]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//table[not(@role='list')]//tr[not(contains(@class,'gw-header'))]//td[${col}]//select//option[@selected])[${index}]</value>
+      <webElementGuid>2159384a-8be7-4498-9c23-8076cc3b7f79</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

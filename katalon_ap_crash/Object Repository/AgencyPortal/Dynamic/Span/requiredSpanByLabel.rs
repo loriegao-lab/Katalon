@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>requiredSpanByLabel</name>
+   <tag></tag>
+   <elementGuidId>e84744db-61c5-4757-87c6-621736bb988c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//label[text()='${text}']//span[@class='required']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//label[text()='${text}']//span[@class='required']</value>
+      <webElementGuid>029b7c22-620d-4657-a870-222af7d3aae5</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

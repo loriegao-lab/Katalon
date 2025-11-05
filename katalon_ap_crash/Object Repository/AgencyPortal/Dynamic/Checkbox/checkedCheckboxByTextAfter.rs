@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>checkedCheckboxByTextAfter</name>
+   <tag></tag>
+   <elementGuidId>d83eb9a9-16f2-4037-a8f9-8daf4b081465</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//label[text()='${text}']/..//input[@checked]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//label[text()='${text}']/..//input[@checked]</value>
+      <webElementGuid>df214737-4247-49a2-a2da-c823ed1ab1ac</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GetH2ModalHeaderByClass</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0b9e5013-3883-46be-89da-dbfc225c856d</testCaseGuid>
+</TestCaseEntity>

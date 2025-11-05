@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>checkboxByHeadingBeforeText</name>
+   <tag></tag>
+   <elementGuidId>3fd93307-1df0-4276-94b4-790d8ccb9017</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[text()='${heading}'][@role='heading']//following::div[text()=&quot;${text}&quot;])[1]/preceding-sibling::div//div[@role='checkbox']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[text()='${heading}'][@role='heading']//following::div[text()=&quot;${text}&quot;])[1]/preceding-sibling::div//div[@role='checkbox']</value>
+      <webElementGuid>b44cc605-4ad5-43dc-8856-50a4aa925316</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

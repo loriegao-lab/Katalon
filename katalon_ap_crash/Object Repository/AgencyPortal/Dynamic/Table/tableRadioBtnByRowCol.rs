@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tableRadioBtnByRowCol</name>
+   <tag></tag>
+   <elementGuidId>5affbc60-38c9-43b8-a9fe-a03824065bc1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//table/tbody/tr[${row}]/td[${col}]//md-radio-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//table/tbody/tr[${row}]/td[${col}]//md-radio-button</value>
+      <webElementGuid>bb71e1e6-c54d-4709-8430-306c4e6884ff</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

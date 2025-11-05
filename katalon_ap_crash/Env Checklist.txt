@@ -1,0 +1,43 @@
+
+Checklist for new env or after env refreshed
+
+1.create new user for PC BC CC: automation_runner and add role as su, UW permission: level 10 and UW VP
+
+Add role
+Account: automation_runner    
+Role:Sr Business Analysis
+
+CC Account automation_runner Add Groups:
+Motorists Insurance
+Safelite FNOL Queue
+Average Reserve Admin Queue
+Analytics
+Bulk Invoices Queue
+Underwriting
+Accounting
+SIU Queue
+Auditing
+
+2.Execute product validaiton and producer license for 01657
+
+3.Check runtime properties: 
+a. PC: Agent Portal link
+b. PC: gwcc.url
+ 
+4.update password:
+BC:
+encovaqa_ann.funk@encova.com and make sure only has one role: Service Desk
+encovaqa_lori.lambert@encova.com
+encovaqa_tammy.prouteau@encova.com
+encovaqa_suzanne.lones@encova.com
+encovaqa_tammi.jenkins@encova.com
+encovaqa_manish.x.kothari@pwc.com
+
+
+CC:
+encovaqa_suzanne.lones@encova.com
+encovaqa_josiah.stein@encova.com
+
+
+PC:
+encovaqa_dan.gordon@encova.com check if user active (Done)

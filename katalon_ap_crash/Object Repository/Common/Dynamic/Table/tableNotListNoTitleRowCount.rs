@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tableNotListNoTitleRowCount</name>
+   <tag></tag>
+   <elementGuidId>aa146790-cddf-4869-b312-6b7ba336a38a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//table[not(@role='list')]//tr[not(contains(@class,'gw-header'))]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//table[not(@role='list')]//tr[not(contains(@class,'gw-header'))]</value>
+      <webElementGuid>3b7e9350-4b04-4e18-bd4b-03b915ce66db</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

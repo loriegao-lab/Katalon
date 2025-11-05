@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SearchAccount</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>078cc3d3-8132-4618-9c45-cc0baca1daa0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4c0dd984-667e-47b4-a200-9199af27403d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'4000012114'</defaultValue>
+      <description></description>
+      <id>4c0dd984-667e-47b4-a200-9199af27403d</id>
+      <masked>false</masked>
+      <name>accountNumber</name>
+   </variable>
+</TestCaseEntity>

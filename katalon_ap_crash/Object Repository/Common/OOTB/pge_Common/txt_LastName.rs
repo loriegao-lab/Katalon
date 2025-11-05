@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_LastName</name>
+   <tag></tag>
+   <elementGuidId>36779704-169b-4e24-b61d-aec9ffe428b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@type = 'text' and contains(@name, 'LastName')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>735c7090-7e8f-458d-be5d-5043cb744e62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>f65b6652-be6d-4ad7-98d3-e87cfca77fc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>LastName</value>
+      <webElementGuid>2a94180a-a401-43e7-a03e-10886871ce73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gw-noTrack gw-focus</value>
+      <webElementGuid>1383c8a9-bde7-4c6e-af68-a951f144deb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AccountSearch-AccountSearchScreen-AccountSearchDV-GlobalPersonNameInputSet-LastName&quot;)/div[@class=&quot;gw-vw--value&quot;]/input[@class=&quot;gw-noTrack gw-focus&quot;]</value>
+      <webElementGuid>f8b52c4f-a682-47f8-9b94-817e3807bb32</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='AccountSearch-AccountSearchScreen-AccountSearchDV-GlobalPersonNameInputSet-LastName']</value>
+      <webElementGuid>a8963b44-2f03-45fc-8472-f859df81fd34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='AccountSearch-AccountSearchScreen-AccountSearchDV-GlobalPersonNameInputSet-LastName']/div/input</value>
+      <webElementGuid>6cd995ae-4b59-44d9-baa7-d62b9d4a70d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last name'])[1]/following::input[1]</value>
+      <webElementGuid>e03dfa6d-d38f-45bd-b8d0-62746d8ba541</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='First name'])[1]/following::input[2]</value>
+      <webElementGuid>f35e8a08-038b-4b7a-a2d5-ac6fdb583dee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='First name is an exact match'])[1]/preceding::input[1]</value>
+      <webElementGuid>96e50670-575f-463f-b61c-30ad1027a19e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last name is an exact match'])[1]/preceding::input[2]</value>
+      <webElementGuid>5b96bcbe-e119-4476-909e-b597c5588f4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div[2]/div/div/input</value>
+      <webElementGuid>f423cbc2-5b3d-45d7-acfe-49355b6d279f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

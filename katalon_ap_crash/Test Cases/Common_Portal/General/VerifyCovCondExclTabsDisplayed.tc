@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify that the Coverages, Conditions, and Exclusions tabs are displayed</description>
+   <name>VerifyCovCondExclTabsDisplayed</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>69602a9d-9411-406f-97f4-90a85bf0bb70</testCaseGuid>
+</TestCaseEntity>

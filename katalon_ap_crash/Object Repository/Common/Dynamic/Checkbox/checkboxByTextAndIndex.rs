@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>checkboxByTextAndIndex</name>
+   <tag></tag>
+   <elementGuidId>84fe9b59-e6c8-477e-8a25-1e601144eda5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[text()='${text}']/preceding-sibling::div//input/preceding-sibling::div)[${index}]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[text()='${text}']/preceding-sibling::div//input/preceding-sibling::div)[${index}]</value>
+      <webElementGuid>331e4b8b-b237-465e-88ad-939c16f71654</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

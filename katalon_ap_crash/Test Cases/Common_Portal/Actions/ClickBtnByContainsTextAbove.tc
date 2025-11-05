@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ClickBtnByContainsTextAbove</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>94e608bc-3a79-4231-ae9a-2ee0645e630a</testCaseGuid>
+</TestCaseEntity>

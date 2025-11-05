@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GoToPolicyByAccountNo</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>23951543-b210-4130-b43c-70d6d3d8881a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>516a870c-351a-46b4-a757-cb3bb7af396b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c8e0cdd1-57a3-4e7c-9241-de41c874832f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'4001037616'</defaultValue>
+      <description></description>
+      <id>516a870c-351a-46b4-a757-cb3bb7af396b</id>
+      <masked>false</masked>
+      <name>accountNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>'5002140792'</defaultValue>
+      <description></description>
+      <id>c8e0cdd1-57a3-4e7c-9241-de41c874832f</id>
+      <masked>false</masked>
+      <name>policyNumber</name>
+   </variable>
+</TestCaseEntity>

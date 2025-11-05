@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SearchQuote</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>79002222-f109-4bcc-8d1b-42599ac8dbc3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4c1aa084-3dd1-4890-aec6-dc8ac1a124aa</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'5003148388'</defaultValue>
+      <description></description>
+      <id>4c1aa084-3dd1-4890-aec6-dc8ac1a124aa</id>
+      <masked>false</masked>
+      <name>submissionNumber</name>
+   </variable>
+</TestCaseEntity>

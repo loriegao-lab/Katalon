@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>selectByContainsText</name>
+   <tag></tag>
+   <elementGuidId>266f24dd-868c-474c-ab2a-e378037aa145</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[contains(text(),'${text}')]//following-sibling::div//select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[contains(text(),'${text}')]//following-sibling::div//select</value>
+      <webElementGuid>60323fb3-d797-45da-b509-496b4273b12d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

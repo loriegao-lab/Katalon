@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tableBtnByTitleContainsText</name>
+   <tag></tag>
+   <elementGuidId>3dcaa024-25ee-4e70-a8a6-9b8d09417406</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//*[contains(text(),&quot;${title}&quot;)]//following::div//div[text()='${text}']//parent::div[@role='button'])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//*[contains(text(),&quot;${title}&quot;)]//following::div//div[text()='${text}']//parent::div[@role='button'])[1]</value>
+      <webElementGuid>b933e075-225b-4a45-ac61-8eccf10f436e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

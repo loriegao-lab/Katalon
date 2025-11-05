@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>paraByCardTitleClass</name>
+   <tag></tag>
+   <elementGuidId>1cd9a05a-2746-4552-a3e5-76ead236775c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//h2[text()='${text}']/following::div[@class='icon-slat-content']//p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//h2[text()='${text}']/following::div[@class='icon-slat-content']//p</value>
+      <webElementGuid>8927517b-ede6-4613-984b-5aa98f63ae0c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

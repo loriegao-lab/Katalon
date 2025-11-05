@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ClaimReportedByScreen</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b77327db-47d5-472b-ac5f-fb91e8280613</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>99b6dcb2-91c8-458b-bdfd-7f9d4370db14</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>99b6dcb2-91c8-458b-bdfd-7f9d4370db14</id>
+      <masked>false</masked>
+      <name>line</name>
+   </variable>
+</TestCaseEntity>

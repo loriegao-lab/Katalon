@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>optionBySelect</name>
+   <tag></tag>
+   <elementGuidId>ef55af86-406b-48b0-82ba-460e412a4fe6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[text()='${text}']//following-sibling::div//select//option[text()='${option}']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[text()='${text}']//following-sibling::div//select//option[text()='${option}']</value>
+      <webElementGuid>f8094b75-35cd-4610-ab57-c2570407d8c6</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

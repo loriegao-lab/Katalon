@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>divByTextLast</name>
+   <tag></tag>
+   <elementGuidId>088a40e2-ec85-4068-9e09-c04410998d8d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[(text()='${text}')])[last()]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[(text()='${text}')])[last()]</value>
+      <webElementGuid>050f2c56-1914-4ff8-8ff8-e8c3ed7e8925</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

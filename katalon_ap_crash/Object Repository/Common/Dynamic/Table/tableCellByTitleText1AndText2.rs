@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tableCellByTitleText1AndText2</name>
+   <tag></tag>
+   <elementGuidId>ba1da713-e8cb-4cf7-b5e9-a76c173fa7bd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[contains(text(),'${title}')]/following::table//tr[not(contains(@class,'gw-header'))]/td//div[text()='${text1}']/ancestor::td/following-sibling::td//div[text()='${text2}']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[contains(text(),'${title}')]/following::table//tr[not(contains(@class,'gw-header'))]/td//div[text()='${text1}']/ancestor::td/following-sibling::td//div[text()='${text2}']</value>
+      <webElementGuid>ca63dc12-df61-4d59-9ae3-f3f8dc1ff00b</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

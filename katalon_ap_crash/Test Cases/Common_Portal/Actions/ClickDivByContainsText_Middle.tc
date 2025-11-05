@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ClickDivByContainsText_Middle</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>35fe55aa-df70-4620-aa0d-8eb3439bb117</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>68032294-e94b-454b-ba0c-fc426daaeade</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>68032294-e94b-454b-ba0c-fc426daaeade</id>
+      <masked>false</masked>
+      <name>text</name>
+   </variable>
+</TestCaseEntity>

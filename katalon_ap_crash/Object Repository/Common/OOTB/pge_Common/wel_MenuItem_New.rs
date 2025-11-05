@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>wel_MenuItem_New</name>
+   <tag></tag>
+   <elementGuidId>cce979d5-4d0f-4714-a67c-6a839efc4961</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[contains(@class, 'gw-label') and (text() = '${item}' or . = '${item}')])[last()]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[contains(@class, 'gw-label') and (text() = '${item}' or . = '${item}')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e291d312-ea99-4504-870f-5a8d522b75f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>TabBar-AccountTab-AccountTab_NewAccount</value>
+      <webElementGuid>ef3f52fe-46d2-4e4c-ba39-3f3e05666786</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ref</name>
+      <type>Main</type>
+      <value>textEl</value>
+      <webElementGuid>31356912-e95d-40c9-92a8-2f17727d4958</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gw-label</value>
+      <webElementGuid>e673fb36-d0f7-4bed-a2ff-b26807c3bed8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>unselectable</name>
+      <type>Main</type>
+      <value>on</value>
+      <webElementGuid>80d0b328-7485-42cd-9763-62ada1ece6b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>${item}</value>
+      <webElementGuid>6be8b4f9-8842-4959-87dd-857ff3fef6f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[contains(@class, 'gw-label') and (text() = '${item}' or . = '${item}')])[last()]</value>
+      <webElementGuid>2c098a4e-cdc1-41ac-951f-66ba4b38b001</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

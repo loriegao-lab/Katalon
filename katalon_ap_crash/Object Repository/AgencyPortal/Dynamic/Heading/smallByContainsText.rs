@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>smallByContainsText</name>
+   <tag></tag>
+   <elementGuidId>9ec25b79-cef0-4e3f-906d-32c1d64bd633</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//small[contains(text(),'${text}')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//small[contains(text(),'${text}')]</value>
+      <webElementGuid>fe0ea8ca-acfb-4f74-887f-8c1b7ec243b1</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

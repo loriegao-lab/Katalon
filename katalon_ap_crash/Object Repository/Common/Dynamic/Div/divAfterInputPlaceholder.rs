@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>divAfterInputPlaceholder</name>
+   <tag></tag>
+   <elementGuidId>c2eca31f-db87-463c-b4ac-2c3efc233c94</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[text()='${text1}']/following-sibling::div[1]//input[@placeholder='${text2}']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[text()='${text1}']/following-sibling::div[1]//input[@placeholder='${text2}']</value>
+      <webElementGuid>682998fc-7f4e-48d9-84a1-38e2d5b462f4</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

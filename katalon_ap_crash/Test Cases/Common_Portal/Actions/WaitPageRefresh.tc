@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>WaitPageRefresh</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ffc0350f-7027-4374-818f-30e726b50c02</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>834b46c7-68ff-4b8c-a76b-81a3fcc1e26f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>300</defaultValue>
+      <description></description>
+      <id>834b46c7-68ff-4b8c-a76b-81a3fcc1e26f</id>
+      <masked>false</masked>
+      <name>waitTimeout</name>
+   </variable>
+</TestCaseEntity>

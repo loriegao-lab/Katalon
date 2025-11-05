@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>generatedPDF</name>
+   <tag></tag>
+   <elementGuidId>e252d903-3aaf-4715-8732-3ef3cc461398</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/embed</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/embed</value>
+      <webElementGuid>e48a8bfc-830f-4087-b1b8-510392f8e380</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

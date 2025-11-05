@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GetH2SectionHeaderByContainsClass</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bc012f1d-8639-4ac1-a63c-c9df771970ac</testCaseGuid>
+</TestCaseEntity>

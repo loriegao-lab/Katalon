@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_PolicyNo</name>
+   <tag></tag>
+   <elementGuidId>94916559-9831-4075-829f-0bea15b7e897</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//h3/following-sibling::div//p[contains(text(),'Policy#')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//h3/following-sibling::div//p[contains(text(),'Policy#')]</value>
+      <webElementGuid>bec77f0d-8ea7-48f0-8a0d-37cc68b38a5d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AddConditions</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>baacc71f-5d19-437f-aff9-3bb7416fd47b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5ee4ddd4-5b83-4138-bb7c-7889f68f5bfa</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5ee4ddd4-5b83-4138-bb7c-7889f68f5bfa</id>
+      <masked>false</masked>
+      <name>conditionList</name>
+   </variable>
+</TestCaseEntity>

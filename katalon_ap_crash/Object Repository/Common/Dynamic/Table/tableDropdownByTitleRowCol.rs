@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tableDropdownByTitleRowCol</name>
+   <tag></tag>
+   <elementGuidId>fc0bbfc7-1867-43dd-9038-cf79c26e82af</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[text()='${title}']/following::table[1]//tr[not(contains(@class,'gw-header'))][${row}]/td[${col}]//select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[text()='${title}']/following::table[1]//tr[not(contains(@class,'gw-header'))][${row}]/td[${col}]//select</value>
+      <webElementGuid>d40cb6ca-8123-449b-95e8-09cc6b786d3b</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tableOptionByRowCol</name>
+   <tag></tag>
+   <elementGuidId>4cd053b0-6802-44c8-ac58-55c6b0b70aa9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//tr[not(contains(@class,'gw-header'))][${row}]/td[${col}]//select//option[contains(text(),'${option}')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//tr[not(contains(@class,'gw-header'))][${row}]/td[${col}]//select//option[contains(text(),'${option}')]</value>
+      <webElementGuid>e410d01a-621c-40ed-b1d2-443051df7d07</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

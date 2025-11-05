@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnByContainsTextAboveBefore</name>
+   <tag></tag>
+   <elementGuidId>fd5c33e3-14bd-4ec7-b5ba-645449aa323e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[contains(text(),'${text}')]/../following-sibling::div//div[@role='button'])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[contains(text(),'${text}')]/../following-sibling::div//div[@role='button'])[1]</value>
+      <webElementGuid>2b885ad6-1986-45bd-9ad7-570cf15c4c6c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

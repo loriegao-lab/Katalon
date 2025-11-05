@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tabLinkByIndex</name>
+   <tag></tag>
+   <elementGuidId>b3554999-bfc1-48e8-96b4-fed8aee9c006</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[@role='tabpanel']//ul//li//a)[${index}]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[@role='tabpanel']//ul//li//a)[${index}]</value>
+      <webElementGuid>eaef2154-1c76-44bd-8d08-6d62675124b7</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

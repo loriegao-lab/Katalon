@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>aByTextAndIndex</name>
+   <tag></tag>
+   <elementGuidId>a81c640c-3dfb-49d6-8a04-e9e14d0a4b40</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//a[text()='${text}'])[${index}]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//a[text()='${text}'])[${index}]</value>
+      <webElementGuid>81579c7b-e44e-4fd9-a012-1d25a05e1237</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ClickLinkByContainsTextBefore</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>93052e49-ab91-4d8a-8856-b111dd2e21ef</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6828a0a3-b43b-436a-ab4c-dad51b16c526</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6828a0a3-b43b-436a-ab4c-dad51b16c526</id>
+      <masked>false</masked>
+      <name>text</name>
+   </variable>
+</TestCaseEntity>

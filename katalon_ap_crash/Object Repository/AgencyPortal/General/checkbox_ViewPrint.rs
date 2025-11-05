@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>checkbox_ViewPrint</name>
+   <tag></tag>
+   <elementGuidId>fb52f64f-c85b-4849-83dc-57127a4570f0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//md-checkbox</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//md-checkbox</value>
+      <webElementGuid>aef3218b-da37-4fa4-8586-46cbdf8a7220</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

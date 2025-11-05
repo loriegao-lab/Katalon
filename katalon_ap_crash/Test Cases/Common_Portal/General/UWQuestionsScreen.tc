@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UWQuestionsScreen</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8ffb0aa6-8634-421e-b90a-02dac03a537a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3af267a8-69a6-47fc-9699-abbb056fc68e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a4a9c95b-82d7-4529-a570-37f62e3c1590</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'No'</defaultValue>
+      <description></description>
+      <id>3af267a8-69a6-47fc-9699-abbb056fc68e</id>
+      <masked>false</masked>
+      <name>option</name>
+   </variable>
+   <variable>
+      <defaultValue>'1'</defaultValue>
+      <description></description>
+      <id>a4a9c95b-82d7-4529-a570-37f62e3c1590</id>
+      <masked>false</masked>
+      <name>dropdownIndex</name>
+   </variable>
+</TestCaseEntity>

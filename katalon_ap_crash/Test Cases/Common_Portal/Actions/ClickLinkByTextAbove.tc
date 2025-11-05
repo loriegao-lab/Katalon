@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ClickLinkByTextAbove</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d7dfefc6-d832-40ca-b7e8-a9750f5c512e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>48c37c2c-6682-40f7-893f-2643fd7fe5b4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4ac811f1-7d25-45fa-b017-247d1805ba03</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>48c37c2c-6682-40f7-893f-2643fd7fe5b4</id>
+      <masked>false</masked>
+      <name>text</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4ac811f1-7d25-45fa-b017-247d1805ba03</id>
+      <masked>false</masked>
+      <name>scroll</name>
+   </variable>
+</TestCaseEntity>

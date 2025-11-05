@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>wel_SubTab</name>
+   <tag></tag>
+   <elementGuidId>5e48b9d3-1900-4921-9a2c-9a28b3958eb3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[contains(@class, 'x-tab-inner') and (text() = '${item}' or . = '${item}')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bef50a64-9f15-478b-adce-218ffa71df1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>x-tab-inner</value>
+      <webElementGuid>0a2ff3f7-8df7-4827-9f16-7cb7f7fab950</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ext-element-1302</value>
+      <webElementGuid>a153bb48-b918-4a5e-80df-7c32dc61890a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>${item}</value>
+      <webElementGuid>d33a2fe0-40dd-4363-a6b0-7fb0d2b349e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ext-element-1302&quot;)</value>
+      <webElementGuid>ebe76aaf-3727-4bf1-bc85-fd9aaf54011b</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

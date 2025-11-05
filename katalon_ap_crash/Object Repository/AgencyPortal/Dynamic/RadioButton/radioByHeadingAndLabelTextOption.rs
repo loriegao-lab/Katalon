@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>radioByHeadingAndLabelTextOption</name>
+   <tag></tag>
+   <elementGuidId>cc9878be-3a8e-4f8f-829f-bed57f24c3ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//*[contains(text(),'${heading}')]/following::label[contains(.,'${text}')]/following::div//md-radio-button//span[text()='${option}'])[1]/ancestor::md-radio-button//div[@class='md-off']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//*[contains(text(),'${heading}')]/following::label[contains(.,'${text}')]/following::div//md-radio-button//span[text()='${option}'])[1]/ancestor::md-radio-button//div[@class='md-off']</value>
+      <webElementGuid>6774ca6a-3f3e-438c-b7c3-37974d3c7686</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

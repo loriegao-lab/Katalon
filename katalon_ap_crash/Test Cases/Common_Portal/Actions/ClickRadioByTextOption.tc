@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ClickRadioByTextOption</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5d099500-4adc-4f60-8ddb-c52bde4f9f98</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ccd2b289-0a5f-4256-8488-b9e55d119a58</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>efcde456-7847-410b-bcfe-3ad683675f09</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>54b61a81-cc67-4dc8-8d02-f65ab0010a19</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ccd2b289-0a5f-4256-8488-b9e55d119a58</id>
+      <masked>false</masked>
+      <name>text</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>efcde456-7847-410b-bcfe-3ad683675f09</id>
+      <masked>false</masked>
+      <name>option</name>
+   </variable>
+   <variable>
+      <defaultValue>false</defaultValue>
+      <description></description>
+      <id>54b61a81-cc67-4dc8-8d02-f65ab0010a19</id>
+      <masked>false</masked>
+      <name>middle</name>
+   </variable>
+</TestCaseEntity>

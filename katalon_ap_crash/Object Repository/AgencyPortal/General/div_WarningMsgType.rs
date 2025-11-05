@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_WarningMsgType</name>
+   <tag></tag>
+   <elementGuidId>477bd6a6-276d-4772-941d-041b0a86f6ee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[@class='gw-collpase__warning__header']/div[@class='text'])</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[@class='gw-collpase__warning__header']/div[@class='text'])</value>
+      <webElementGuid>f5cd6d5e-ea35-48da-9393-2ad611a323ba</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

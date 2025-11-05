@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>radioGroupByText</name>
+   <tag></tag>
+   <elementGuidId>ac416a33-e8f9-4daf-9d95-a177e9f69fe0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//label[text()='${text}']/ancestor::md-radio-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//label[text()='${text}']/ancestor::md-radio-button</value>
+      <webElementGuid>c0657563-3434-486b-bc46-07859b299028</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

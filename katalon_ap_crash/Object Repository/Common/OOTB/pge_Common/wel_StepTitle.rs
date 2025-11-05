@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>wel_StepTitle</name>
+   <tag></tag>
+   <elementGuidId>4fe1ac4a-c65c-4c3c-8f69-b02b3ac45b19</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class = 'gw-TitleBar--title' and (contains(text(), '${title}') or contains(., '${title}'))]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2ce6851b-4317-4012-9038-4b3e2bbe6ddc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gw-TitleBar--title</value>
+      <webElementGuid>8fb15df6-2ca5-4f08-9d23-f604ac8e130b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>${title}</value>
+      <webElementGuid>745cc0f8-bfdf-4dd2-8e21-c9f5597dd46e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnBySpanAndIndex</name>
+   <tag></tag>
+   <elementGuidId>cca21106-8a55-42cb-8236-deacf475a4f0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//span[text()='${text}']//ancestor::div[@role=&quot;region&quot;])[2]//div//tr[2]//td[${index}]//div[@role=&quot;button&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//span[text()='${text}']//ancestor::div[@role=&quot;region&quot;])[2]//div//tr[2]//td[${index}]//div[@role=&quot;button&quot;]</value>
+      <webElementGuid>931f1914-0231-4db8-9531-8462bc990d10</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

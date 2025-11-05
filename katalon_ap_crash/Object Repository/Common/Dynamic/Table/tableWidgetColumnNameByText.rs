@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tableWidgetColumnNameByText</name>
+   <tag></tag>
+   <elementGuidId>48cb6b40-ffab-43e4-859c-b2e23e31ec32</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class='gw-ListView--table-wrapper']//div[@class='gw-cell-inner']//div[text()='${text}']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class='gw-ListView--table-wrapper']//div[@class='gw-cell-inner']//div[text()='${text}']</value>
+      <webElementGuid>e36f792b-fb59-4e1b-bc2d-21358bfc1c01</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

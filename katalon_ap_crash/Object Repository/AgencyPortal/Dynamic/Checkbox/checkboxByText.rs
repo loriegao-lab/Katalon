@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>checkboxByText</name>
+   <tag></tag>
+   <elementGuidId>31f83622-2bba-48db-af85-039e49c1fe38</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[contains(text(),&quot;${text}&quot;)]/ancestor::md-checkbox</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[contains(text(),&quot;${text}&quot;)]/ancestor::md-checkbox</value>
+      <webElementGuid>7bccdb5d-166b-4cf8-85ca-493eb72f0f98</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

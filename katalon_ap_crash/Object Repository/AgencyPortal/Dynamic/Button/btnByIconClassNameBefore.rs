@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnByIconClassNameBefore</name>
+   <tag></tag>
+   <elementGuidId>b395d35f-393c-4048-bc5f-e61557e704c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@aria-hidden='false']//div[@class='${text}']/following-sibling::button[@aria-hidden='false']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@aria-hidden='false']//div[@class='${text}']/following-sibling::button[@aria-hidden='false']</value>
+      <webElementGuid>013a6e34-17dd-47a9-948a-af3338614b40</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

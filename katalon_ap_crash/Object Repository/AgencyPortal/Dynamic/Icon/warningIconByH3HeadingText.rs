@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>warningIconByH3HeadingText</name>
+   <tag></tag>
+   <elementGuidId>1d96e02d-3efb-4786-9314-1557db92889d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//h3[text()='{text}']/ancestor::div)[last()]/following-sibling::div//div[@aria-hidden='false']//div[@class='alert-icon']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//h3[text()='{text}']/ancestor::div)[last()]/following-sibling::div//div[@aria-hidden='false']//div[@class='alert-icon']</value>
+      <webElementGuid>4e1b1dd9-eb41-48f7-adf8-890829c24a48</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

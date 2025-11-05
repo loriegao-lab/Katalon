@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ConvertStringToDateFormat</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>152e6066-b1b9-43ba-9a85-b50ddba0e67e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>12c1539c-0767-4372-8486-52588bef7330</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>12c1539c-0767-4372-8486-52588bef7330</id>
+      <masked>false</masked>
+      <name>originalDateString</name>
+   </variable>
+</TestCaseEntity>

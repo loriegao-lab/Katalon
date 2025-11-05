@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>selectValueByTextAndIndex</name>
+   <tag></tag>
+   <elementGuidId>47c9ceb8-5d1b-41d7-b893-2ba1efd8b7d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[text()='${text}']//following-sibling::div//option)[${index}]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[text()='${text}']//following-sibling::div//option)[${index}]</value>
+      <webElementGuid>6064d26d-5319-4f62-805a-d19285915fdc</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

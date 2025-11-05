@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tableCellByTitleAndClassNameAndIndex</name>
+   <tag></tag>
+   <elementGuidId>2fe07e21-c868-459c-bd01-876204d54ab3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//span[text()='${text}']/../../../..//tbody//td//div[@class='${className}'])[${index}]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//span[text()='${text}']/../../../..//tbody//td//div[@class='${className}'])[${index}]</value>
+      <webElementGuid>a795d402-ab7c-416f-abf6-719886881c87</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

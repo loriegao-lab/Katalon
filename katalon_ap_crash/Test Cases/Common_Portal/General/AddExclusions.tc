@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AddExclusions</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>38493002-5bed-4cef-bedc-848de4a06e1a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2b5fb43e-6826-48c6-bfc2-d14447731165</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>[]</defaultValue>
+      <description></description>
+      <id>2b5fb43e-6826-48c6-bfc2-d14447731165</id>
+      <masked>false</masked>
+      <name>exclusionList</name>
+   </variable>
+</TestCaseEntity>

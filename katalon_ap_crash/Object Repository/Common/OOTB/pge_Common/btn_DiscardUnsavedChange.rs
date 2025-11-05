@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_DiscardUnsavedChange</name>
+   <tag></tag>
+   <elementGuidId>1ca7e0da-c8b4-4df8-8da0-214cccd2dfc6</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d8b1e2bb-ef8f-4fc0-be0e-7fbe8d09b458</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>entrykey</name>
+      <type>Main</type>
+      <value>Renewal 0003025251</value>
+      <webElementGuid>d2c43b55-e39c-485c-8ae7-a60dd26a2204</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-recordindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>f0a87b9a-a314-4533-8931-2aeaa4825046</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-recordid</name>
+      <type>Main</type>
+      <value>5963</value>
+      <webElementGuid>6ee43a3d-4119-4a40-b61d-7cf46fb754de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-boundview</name>
+      <type>Main</type>
+      <value>RenewalWizard:LOBWizardStepGroup:RenewalWizard_PolicyInfoScreen:_msgs</value>
+      <webElementGuid>82dd200a-b015-4517-a97a-685ce6c2ec77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Discard Unsaved Change</value>
+      <webElementGuid>92d4af3b-3606-485c-9c9b-c74c09353b4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;RenewalWizard:LOBWizardStepGroup:RenewalWizard_PolicyInfoScreen:_msgs&quot;)/div[@class=&quot;message&quot;]/a[1]</value>
+      <webElementGuid>d63e8dad-b388-4135-8d1e-c0b63a6da992</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>leftSubMenuByText</name>
+   <tag></tag>
+   <elementGuidId>46979782-1a02-447d-a233-320a6de6d2c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[text()='${parentMenuText}']/ancestor::div[@role='menuitem']/following-sibling::div[@role='menu']//div[@role='menuitem']//div[text()='${subMenuText}']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[text()='${parentMenuText}']/ancestor::div[@role='menuitem']/following-sibling::div[@role='menu']//div[@role='menuitem']//div[text()='${subMenuText}']</value>
+      <webElementGuid>74a8dba8-e7f8-4f0b-8497-c72b3f1ef4ed</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

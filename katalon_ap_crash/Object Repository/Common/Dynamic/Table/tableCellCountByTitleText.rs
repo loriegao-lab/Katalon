@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tableCellCountByTitleText</name>
+   <tag></tag>
+   <elementGuidId>c0fb3356-8fcd-4ed0-91eb-63efcb57d5b8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[contains(text(),'${title}')]/following::table[1]//tr[not(contains(@class,'gw-header'))]/td//div[text()='${text}']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[contains(text(),'${title}')]/following::table[1]//tr[not(contains(@class,'gw-header'))]/td//div[text()='${text}']</value>
+      <webElementGuid>06f491f2-a356-4ca9-ae4a-47c94de4e490</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

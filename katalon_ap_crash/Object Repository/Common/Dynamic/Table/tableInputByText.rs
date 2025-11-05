@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tableInputByText</name>
+   <tag></tag>
+   <elementGuidId>7041d1db-9439-4383-bd8a-6d43e7ec81cc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[text()=&quot;${text}&quot;]/ancestor::tr//input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[text()=&quot;${text}&quot;]/ancestor::tr//input</value>
+      <webElementGuid>27618430-9eef-4b29-97ef-95dfdb592468</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

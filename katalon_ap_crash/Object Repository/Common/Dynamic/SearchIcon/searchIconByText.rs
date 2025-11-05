@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>searchIconByText</name>
+   <tag></tag>
+   <elementGuidId>e29c11d3-7394-4dee-94df-4327913ef43b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[text()='${text}']//following-sibling::div//span[@aria-label='gw-search-icon']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[text()='${text}']//following-sibling::div//span[@aria-label='gw-search-icon']</value>
+      <webElementGuid>5d30af8b-34dc-4515-b194-85e906cecdaa</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

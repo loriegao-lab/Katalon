@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>linkByNormalizeText</name>
+   <tag></tag>
+   <elementGuidId>da6eb83e-9629-4bb7-b3dd-c026de09f4c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[normalize-space(text())='${text}']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[normalize-space(text())='${text}']</value>
+      <webElementGuid>47717472-d482-423c-a8b7-39027cdb6b4a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

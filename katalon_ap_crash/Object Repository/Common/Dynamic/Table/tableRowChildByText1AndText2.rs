@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tableRowChildByText1AndText2</name>
+   <tag></tag>
+   <elementGuidId>bb23e70f-50bd-475e-a61e-7a02c41a34f2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[contains(text(),'${text1}')]/ancestor::tr[1]/following-sibling::tr/td//div[contains(text(),'${text2}')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[contains(text(),'${text1}')]/ancestor::tr[1]/following-sibling::tr/td//div[contains(text(),'${text2}')]</value>
+      <webElementGuid>12b252c6-3ad2-4d54-8006-74ff3cbd622c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

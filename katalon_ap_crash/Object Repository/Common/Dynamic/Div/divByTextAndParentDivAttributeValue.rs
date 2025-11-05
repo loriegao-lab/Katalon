@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>divByTextAndParentDivAttributeValue</name>
+   <tag></tag>
+   <elementGuidId>8f8c0dc5-c4d3-499f-b0f5-14cc8a9db590</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[text()=&quot;${text}&quot;]/parent::div[@${attribute}=&quot;${value}&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[text()=&quot;${text}&quot;]/parent::div[@${attribute}=&quot;${value}&quot;]</value>
+      <webElementGuid>0414efcd-76a5-4fe8-9f07-c9742dc76bd3</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

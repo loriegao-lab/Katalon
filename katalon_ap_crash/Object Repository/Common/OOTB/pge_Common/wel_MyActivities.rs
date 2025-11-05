@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>wel_MyActivities</name>
+   <tag></tag>
+   <elementGuidId>1d890b75-bb7d-4334-9707-54bca97b5b5d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[(text() = 'My Activities' or . = 'My Activities')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6393f483-87c4-4899-a659-229efb45cdf3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>g-title</value>
+      <webElementGuid>46911484-9b4f-4b52-9ce6-a284aefdee0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>DesktopActivities-DesktopActivitiesScreen-0</value>
+      <webElementGuid>4121146e-86bc-4542-b85f-31156b2ec6bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My Activities</value>
+      <webElementGuid>3d5e7ca6-34ec-4f5e-a5ef-38cf40560cb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DesktopActivities:DesktopActivitiesScreen:0&quot;)</value>
+      <webElementGuid>9e81c9ec-8001-4024-8c27-a8635f15ed1a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

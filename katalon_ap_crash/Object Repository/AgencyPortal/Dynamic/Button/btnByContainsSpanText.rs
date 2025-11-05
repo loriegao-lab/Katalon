@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnByContainsSpanText</name>
+   <tag></tag>
+   <elementGuidId>1d0a02e1-4e4c-4836-905a-cc3f616a0e44</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[normalize-space(text()='${text}')]/ancestor::button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[normalize-space(text()='${text}')]/ancestor::button</value>
+      <webElementGuid>e05a7fbd-c85a-4197-8fe5-8f8463680d71</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

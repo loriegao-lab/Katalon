@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3UnderDivByClass</name>
+   <tag></tag>
+   <elementGuidId>874cdc44-1f74-4f8c-8837-e397a7bee65a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class='section-header']//h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class='section-header']//h3</value>
+      <webElementGuid>ca43c8d6-ba48-4a34-bd18-e409b5f800da</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

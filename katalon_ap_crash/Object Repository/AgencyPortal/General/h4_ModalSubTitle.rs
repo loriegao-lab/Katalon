@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_ModalSubTitle</name>
+   <tag></tag>
+   <elementGuidId>9d44a482-d415-458e-b3a7-d2bf5f23d380</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//h4[@class='modal-subtitle']//div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//h4[@class='modal-subtitle']//div</value>
+      <webElementGuid>d86e08e6-ef44-4151-af5b-f2bd0db04dea</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

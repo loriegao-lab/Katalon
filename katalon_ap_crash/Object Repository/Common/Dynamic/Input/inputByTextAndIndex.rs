@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>inputByTextAndIndex</name>
+   <tag></tag>
+   <elementGuidId>f35b0b19-e907-4340-a996-133e63443c28</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[text()=&quot;${text}&quot;]/following-sibling::div[1]//input)[${index}]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[text()=&quot;${text}&quot;]/following-sibling::div[1]//input)[${index}]</value>
+      <webElementGuid>16654a89-5328-4e63-ba3c-a726d0ec242a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

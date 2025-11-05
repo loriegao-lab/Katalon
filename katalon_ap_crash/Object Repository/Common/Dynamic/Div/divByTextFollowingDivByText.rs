@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>divByTextFollowingDivByText</name>
+   <tag></tag>
+   <elementGuidId>2709cbe7-f16a-483d-9e26-6543755914d9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[(text()='${text1}')]/following::div[text()='${text2}']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[(text()='${text1}')]/following::div[text()='${text2}']</value>
+      <webElementGuid>04dec571-20f8-4a74-b6ab-7690828dae3d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

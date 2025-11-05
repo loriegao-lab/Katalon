@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>spanEmptyByTextAndIndex</name>
+   <tag></tag>
+   <elementGuidId>7fed160d-ecc6-4256-9ffb-4d11bf06db7f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//span[text()='${text}']//ancestor::label//following::span[@ng-show=&quot;$select.isEmpty()&quot;])[${index}]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//span[text()='${text}']//ancestor::label//following::span[@ng-show=&quot;$select.isEmpty()&quot;])[${index}]</value>
+      <webElementGuid>0888f480-32e1-46d5-893f-bf929de984b5</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

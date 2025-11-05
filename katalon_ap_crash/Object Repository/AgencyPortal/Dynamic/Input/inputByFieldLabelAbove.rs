@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>inputByFieldLabelAbove</name>
+   <tag></tag>
+   <elementGuidId>3bcbd45e-756d-47b2-bce1-113946adb6c0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[text()='${text}']/ancestor::md-input-container//input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[text()='${text}']/ancestor::md-input-container//input</value>
+      <webElementGuid>3f5ddb3a-9544-4b6f-a85c-be8e18f9d3e3</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

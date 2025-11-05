@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnByClass</name>
+   <tag></tag>
+   <elementGuidId>3164bdc5-5194-41e1-b837-2c8d94a33171</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@class='${class}']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//button[@class='${class}']</value>
+      <webElementGuid>fa30feba-fd6f-4746-96ea-3bebaf8c84d7</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

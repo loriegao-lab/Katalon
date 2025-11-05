@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnByClassAndText</name>
+   <tag></tag>
+   <elementGuidId>926aa7e2-eb4e-4105-9677-1f51ad749c27</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class='modal-footer']//button[text()='${text}']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class='modal-footer']//button[text()='${text}']</value>
+      <webElementGuid>36ad629c-48a3-4ed6-942c-7e88c2f48d93</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_NewPerson</name>
+   <tag></tag>
+   <elementGuidId>33c3892b-edb2-4b31-be60-699a24916a00</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[contains(@id,&quot;ClaimNewPersonOnlyPickerMenuItemSet_NewPersonMenuItem&quot;)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[contains(@id,&quot;ClaimNewPersonOnlyPickerMenuItemSet_NewPersonMenuItem&quot;)]</value>
+      <webElementGuid>5741fc85-64b7-4484-b6c1-bcce89bd19a2</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

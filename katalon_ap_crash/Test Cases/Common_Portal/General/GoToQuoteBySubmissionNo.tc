@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GoToQuoteBySubmissionNo</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9a2b841f-2f6e-4b1d-9367-5660352b98ef</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>729e6289-ec05-4278-8e32-0994ab80a048</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>729e6289-ec05-4278-8e32-0994ab80a048</id>
+      <masked>false</masked>
+      <name>submissionNumber</name>
+   </variable>
+</TestCaseEntity>

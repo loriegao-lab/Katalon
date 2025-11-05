@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>inputCount2</name>
+   <tag></tag>
+   <elementGuidId>ca65837b-c25c-461f-b41e-b6cbf6cf9acb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//md-input-container//input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//md-input-container//input</value>
+      <webElementGuid>34a25323-a049-41b2-9063-21fcc433c166</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

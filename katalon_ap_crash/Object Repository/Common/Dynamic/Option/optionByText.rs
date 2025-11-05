@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>optionByText</name>
+   <tag></tag>
+   <elementGuidId>004d0df2-a5f0-4d91-9b72-3b1b7023874b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//option[(text()='${option}')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//option[(text()='${option}')]</value>
+      <webElementGuid>d2a69ee9-dac4-41d7-9f66-f5da482b0823</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

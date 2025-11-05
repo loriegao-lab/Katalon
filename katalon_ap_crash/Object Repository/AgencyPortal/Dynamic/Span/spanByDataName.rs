@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>spanByDataName</name>
+   <tag></tag>
+   <elementGuidId>91333de5-c128-4f87-9e0c-1fd8f3965c29</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@data-name='${dataName}']//span[@class='text']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[@data-name='${dataName}']//span[@class='text']</value>
+      <webElementGuid>d15f92e4-5793-492a-9227-706408ca74c9</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

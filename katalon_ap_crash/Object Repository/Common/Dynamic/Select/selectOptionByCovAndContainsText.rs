@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>selectOptionByCovAndContainsText</name>
+   <tag></tag>
+   <elementGuidId>e6b7de54-4aec-41b6-8848-8026414f37e8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[text()=&quot;${coverage}&quot;]/following::div[contains(text(),&quot;${text}&quot;)]/following-sibling::div//select//option[contains(text(),'${option}')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[text()=&quot;${coverage}&quot;]/following::div[contains(text(),&quot;${text}&quot;)]/following-sibling::div//select//option[contains(text(),'${option}')]</value>
+      <webElementGuid>0e316bc0-d3b6-4bdc-9c10-6cc1fc4a7168</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

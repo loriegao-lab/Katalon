@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>approve uw issues without issuing policy</description>
+   <name>ApproveUWIssues</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a1ba9c2e-4f34-461b-8a64-8fbfb94e8737</testCaseGuid>
+</TestCaseEntity>

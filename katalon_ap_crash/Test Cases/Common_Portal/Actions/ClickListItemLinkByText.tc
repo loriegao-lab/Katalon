@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ClickListItemLinkByText</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e43e71fb-9b7c-4bd4-8ec1-0417ac4c551b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verifies 'other' org type value and corresponding field &quot;Other Organization Type&quot; is displayed.  Checks only 255 characters are allowed in text box.</description>
+   <name>BasicPolicyInfo_VerifyOrgType</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b3d85787-8acc-4841-9950-0649d585f322</testCaseGuid>
+</TestCaseEntity>

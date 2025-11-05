@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ClickRadioBySpanTextOption</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6233937d-ff3a-4aa3-b530-b70edf6adca4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0cb265e3-a7bd-4803-8373-7c48d259f608</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c62b23bb-fdd8-4c7c-b6ac-b390d40c83a1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0cb265e3-a7bd-4803-8373-7c48d259f608</id>
+      <masked>false</masked>
+      <name>text</name>
+   </variable>
+   <variable>
+      <defaultValue>'No'</defaultValue>
+      <description></description>
+      <id>c62b23bb-fdd8-4c7c-b6ac-b390d40c83a1</id>
+      <masked>false</masked>
+      <name>option</name>
+   </variable>
+</TestCaseEntity>

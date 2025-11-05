@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnDisabledByText</name>
+   <tag></tag>
+   <elementGuidId>8d6d51a2-2f0d-4cf6-b221-03280401d6b8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[(@aria-disabled='${boolean}')]/div[text()='${text}']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[(@aria-disabled='${boolean}')]/div[text()='${text}']</value>
+      <webElementGuid>b4ab37fc-c8c4-4f40-a970-90bcbfa33e31</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

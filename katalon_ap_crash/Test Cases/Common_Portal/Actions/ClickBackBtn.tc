@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ClickBackBtn</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3991e1cc-0c7c-455b-98af-f51ee6933716</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bec879ef-bc1b-497d-a943-ffdac87c291a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fa8c35eb-4b77-4d7c-b913-81aee42df7f0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>bec879ef-bc1b-497d-a943-ffdac87c291a</id>
+      <masked>false</masked>
+      <name>wait</name>
+   </variable>
+   <variable>
+      <defaultValue>true</defaultValue>
+      <description></description>
+      <id>fa8c35eb-4b77-4d7c-b913-81aee42df7f0</id>
+      <masked>false</masked>
+      <name>waitForRefresh</name>
+   </variable>
+</TestCaseEntity>

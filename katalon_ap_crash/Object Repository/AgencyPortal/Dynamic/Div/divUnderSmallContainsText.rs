@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>divUnderSmallContainsText</name>
+   <tag></tag>
+   <elementGuidId>5b9cf602-e55f-4c17-a4b4-4a12d12c9f3e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//small[contains(text(),'${text}')]/following-sibling::div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//small[contains(text(),'${text}')]/following-sibling::div</value>
+      <webElementGuid>4d343fe5-d2da-4de6-8689-8165dc3e03df</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

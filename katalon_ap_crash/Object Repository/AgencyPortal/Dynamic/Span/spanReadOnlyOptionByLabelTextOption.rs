@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>spanReadOnlyOptionByLabelTextOption</name>
+   <tag></tag>
+   <elementGuidId>bd38d148-2cc3-4589-9a06-12374b7dcc7c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[text()='${text}']/ancestor::label/following-sibling::ng-transclude//div[@aria-disabled='true']//span[text()='${option}']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[text()='${text}']/ancestor::label/following-sibling::ng-transclude//div[@aria-disabled='true']//span[text()='${option}']</value>
+      <webElementGuid>4adddbb6-e8ec-4c68-8a8f-89aee9e1cc21</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ClaimInjuriesScreen</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2a3c3c4a-5671-4f29-9e7f-f68e273a9c5e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a86e7566-1e9b-4f05-93e4-5b046ad8ba94</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a86e7566-1e9b-4f05-93e4-5b046ad8ba94</id>
+      <masked>false</masked>
+      <name>line</name>
+   </variable>
+</TestCaseEntity>

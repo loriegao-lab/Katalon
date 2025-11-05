@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tableRadioByContainsTextOption</name>
+   <tag></tag>
+   <elementGuidId>60bd91e3-e0d9-4fa6-8d83-65ce32413f20</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[contains(text(),&quot;${text}&quot;)]/ancestor::tr//td//span[contains(text(),'${option}')]/preceding-sibling::div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[contains(text(),&quot;${text}&quot;)]/ancestor::tr//td//span[contains(text(),'${option}')]/preceding-sibling::div</value>
+      <webElementGuid>7545b49b-7ef8-4552-a666-dd3fc12b3eb5</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

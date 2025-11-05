@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnByTextAndIndex</name>
+   <tag></tag>
+   <elementGuidId>142c6fc2-0a1b-47a4-af95-d6621a83189a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[@role='button']//div[text()='${text}'])[${index}]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[@role='button']//div[text()='${text}'])[${index}]</value>
+      <webElementGuid>f74f6cb6-7960-4474-93db-e1f78bf73031</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

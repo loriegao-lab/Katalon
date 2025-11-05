@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tabByText</name>
+   <tag></tag>
+   <elementGuidId>83e1017a-e84a-4b39-8ebe-77d4f3061b5f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@role='tab']//div[(text()='${text}')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@role='tab']//div[(text()='${text}')]</value>
+      <webElementGuid>4be39d32-769e-4e61-b679-0efcc66e78fe</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

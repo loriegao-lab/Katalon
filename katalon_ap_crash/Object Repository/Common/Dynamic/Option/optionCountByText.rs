@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>optionCountByText</name>
+   <tag></tag>
+   <elementGuidId>5d2bdecb-6f86-4bb0-abe9-bb2417d089da</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[text()='${text}']//following-sibling::div//select//option</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[text()='${text}']//following-sibling::div//select//option</value>
+      <webElementGuid>9baa66fd-8e5e-48f4-add6-a24118feb255</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

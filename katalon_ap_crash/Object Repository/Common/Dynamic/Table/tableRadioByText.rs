@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tableRadioByText</name>
+   <tag></tag>
+   <elementGuidId>fc32589f-b1b6-497f-837b-f197e6755115</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[text()=&quot;${text}&quot;]/ancestor::tr)[last()]//td//input/preceding-sibling::div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[text()=&quot;${text}&quot;]/ancestor::tr)[last()]//td//input/preceding-sibling::div</value>
+      <webElementGuid>6902ff36-114e-406e-a105-66b993e3d070</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

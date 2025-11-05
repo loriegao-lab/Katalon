@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>radioByText</name>
+   <tag></tag>
+   <elementGuidId>4802f503-2f85-485e-8256-c71b7d7b99bb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[text()=&quot;${text}&quot;]/preceding-sibling::div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[text()=&quot;${text}&quot;]/preceding-sibling::div</value>
+      <webElementGuid>22d37755-57ab-40f1-ae04-708a9f75192e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

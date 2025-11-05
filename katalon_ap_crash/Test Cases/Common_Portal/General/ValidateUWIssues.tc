@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ValidateUWIssues</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>88731bca-262b-4ced-9e25-c090e8261114</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bd7ff464-4e5e-424d-bdb3-fdd6342c12ec</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>[:]</defaultValue>
+      <description></description>
+      <id>bd7ff464-4e5e-424d-bdb3-fdd6342c12ec</id>
+      <masked>false</masked>
+      <name>uwIssuesMap</name>
+   </variable>
+</TestCaseEntity>

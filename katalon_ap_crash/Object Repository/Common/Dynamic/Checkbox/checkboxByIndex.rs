@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>checkboxByIndex</name>
+   <tag></tag>
+   <elementGuidId>b79f25ee-898b-4157-9cc9-143107a5586f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[@role='checkbox'])['${index}']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[@role='checkbox'])['${index}']</value>
+      <webElementGuid>9c738d0e-2399-41ad-a468-f144a218647f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GoToPolicyByPolicyNo_PH</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d114f3e3-c3f7-4422-8837-8436dd5a4df1</testCaseGuid>
+</TestCaseEntity>

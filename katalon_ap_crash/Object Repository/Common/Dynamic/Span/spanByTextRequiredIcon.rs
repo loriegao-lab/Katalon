@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>spanByTextRequiredIcon</name>
+   <tag></tag>
+   <elementGuidId>cabd7d36-3f95-406d-9545-6802866e45f0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[text()='${text}']//following-sibling::div//span[@class='gw-required-icon']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[text()='${text}']//following-sibling::div//span[@class='gw-required-icon']</value>
+      <webElementGuid>f29226d0-a8c0-46d6-b17d-d028d01a0daf</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

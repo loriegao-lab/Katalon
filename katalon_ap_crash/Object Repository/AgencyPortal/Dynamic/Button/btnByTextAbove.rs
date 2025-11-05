@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnByTextAbove</name>
+   <tag></tag>
+   <elementGuidId>c447d72d-eccb-4af9-8263-cbddca9501f3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//p[text()='${title}']/ancestor::div[@class='modal-body']/following-sibling::div[@class='modal-footer']/button[text()='${option}']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//p[text()='${title}']/ancestor::div[@class='modal-body']/following-sibling::div[@class='modal-footer']/button[text()='${option}']</value>
+      <webElementGuid>fac1786c-5cc1-49ef-b27c-f454b4d23db2</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

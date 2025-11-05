@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SelectDropDownOptionByTextAndIndex</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f9dfaf45-6402-40e9-abd8-434b8937502a</testCaseGuid>
+</TestCaseEntity>

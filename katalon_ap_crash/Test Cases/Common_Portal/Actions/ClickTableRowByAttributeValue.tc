@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ClickTableRowByAttributeValue</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0e6d2c34-6cdc-425f-aedc-01cfe6defa56</testCaseGuid>
+</TestCaseEntity>

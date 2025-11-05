@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>bByText</name>
+   <tag></tag>
+   <elementGuidId>7bc86542-fb46-411f-87fa-b5f796cdf6f8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//b[text()='${text}']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//b[text()='${text}']</value>
+      <webElementGuid>d77b4cff-efdc-430b-8e93-6e73e9584bb6</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>spanByTitleAndAttrValue</name>
+   <tag></tag>
+   <elementGuidId>e3b46b32-8d8e-40c4-be19-fd2fe8f26a97</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[text()='${text}']/ancestor::label/following-sibling::ng-transclude//div//span[@${attr}='${value}']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[text()='${text}']/ancestor::label/following-sibling::ng-transclude//div//span[@${attr}='${value}']</value>
+      <webElementGuid>a5af27dd-175b-4485-a169-b6c25459abcc</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

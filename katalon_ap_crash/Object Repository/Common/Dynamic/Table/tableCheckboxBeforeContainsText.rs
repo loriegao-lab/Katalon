@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tableCheckboxBeforeContainsText</name>
+   <tag></tag>
+   <elementGuidId>d5c94e20-ed43-4197-a0f3-8fc7333424b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[contains(text(),'${text}')]/ancestor::tr)[last()]//div[@role='checkbox']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[contains(text(),'${text}')]/ancestor::tr)[last()]//div[@role='checkbox']</value>
+      <webElementGuid>061ddb77-75e2-4f49-b2a4-5706c6850acd</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

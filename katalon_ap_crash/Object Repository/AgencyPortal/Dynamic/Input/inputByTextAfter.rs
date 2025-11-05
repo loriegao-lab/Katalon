@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>inputByTextAfter</name>
+   <tag></tag>
+   <elementGuidId>e4164eec-9282-4365-b9cb-3bf2f6bf80e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[text()='${text}']/preceding-sibling::input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[text()='${text}']/preceding-sibling::input</value>
+      <webElementGuid>86718095-1400-46bf-a1c5-8c683fb5721a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

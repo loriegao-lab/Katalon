@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ClaimVehicleScreen</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a458fd7d-aad1-4613-8504-46f0533645b7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0087e9b1-d3e7-4058-81f7-1e90972b8ca5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0087e9b1-d3e7-4058-81f7-1e90972b8ca5</id>
+      <masked>false</masked>
+      <name>line</name>
+   </variable>
+</TestCaseEntity>

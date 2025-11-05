@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tdByText</name>
+   <tag></tag>
+   <elementGuidId>02a9dd03-ba20-4845-a9bb-0f73070e6f40</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//td[text()='${text}']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//td[text()='${text}']</value>
+      <webElementGuid>d3755656-aa4b-436d-b6b7-671e8c7a0fb0</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

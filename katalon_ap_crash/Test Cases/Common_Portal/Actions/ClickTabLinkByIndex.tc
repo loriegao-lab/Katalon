@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ClickTabLinkByIndex</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>25f65fed-a6ec-41f0-923a-fca63efbea20</testCaseGuid>
+</TestCaseEntity>

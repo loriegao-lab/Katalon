@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>radioTextByIndex</name>
+   <tag></tag>
+   <elementGuidId>c3470b73-444b-4fb1-9d96-3a7fd902f357</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//md-radio-group)[${index}]/preceding-sibling::div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//md-radio-group)[${index}]/preceding-sibling::div</value>
+      <webElementGuid>135cf82b-e8ce-480b-90b7-51937240c8c2</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

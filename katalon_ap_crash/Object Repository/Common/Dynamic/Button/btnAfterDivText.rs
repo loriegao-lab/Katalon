@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnAfterDivText</name>
+   <tag></tag>
+   <elementGuidId>1b883363-123e-4f2e-a1ea-8364b556eabb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[contains(text(),'${text}')]//following::div[text()='${btn}'])[position()=1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[contains(text(),'${text}')]//following::div[text()='${btn}'])[position()=1]</value>
+      <webElementGuid>aabc4e47-6cb8-4d4c-9e5c-0049cd86b7fb</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

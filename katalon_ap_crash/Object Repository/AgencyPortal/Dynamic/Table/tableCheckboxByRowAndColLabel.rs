@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tableCheckboxByRowAndColLabel</name>
+   <tag></tag>
+   <elementGuidId>34035dae-8687-484d-9196-ac7a7269858f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[text()='${rowLabel}']/ancestor::td/following-sibling::td[contains(@id,'${colLabel}')]//md-checkbox</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[text()='${rowLabel}']/ancestor::td/following-sibling::td[contains(@id,'${colLabel}')]//md-checkbox</value>
+      <webElementGuid>04995d2d-1ee0-4c3c-ba1d-8f718941f416</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>inputByRowAndCol</name>
+   <tag></tag>
+   <elementGuidId>c73e697e-e3a9-49a4-b1c8-5a23513d63ec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@role=&quot;group&quot;]/following::table//tr[${row}]//td[${col}]//input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@role=&quot;group&quot;]/following::table//tr[${row}]//td[${col}]//input</value>
+      <webElementGuid>531a5eaa-ffa0-4089-8f03-f8ff5bbd8f33</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

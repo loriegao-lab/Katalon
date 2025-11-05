@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>linkByClassNameAndIndex</name>
+   <tag></tag>
+   <elementGuidId>d2dbefa1-ae27-4e96-be3d-6be70e33061a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//a[@class='${className}'])[${index}]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//a[@class='${className}'])[${index}]</value>
+      <webElementGuid>09a8bd4f-a394-4f6b-b2a5-a1e3151d3c2f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

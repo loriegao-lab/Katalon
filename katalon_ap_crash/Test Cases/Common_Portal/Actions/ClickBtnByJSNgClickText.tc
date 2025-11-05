@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ClickBtnByJSNgClickText</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cd4e6527-22e4-4de7-b3a2-806f06ab530f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>db7e5066-86ea-4fb9-ab1a-7dc955d02a31</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b39dd6a4-0f5d-44ba-85b9-0e5655b67c73</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>db7e5066-86ea-4fb9-ab1a-7dc955d02a31</id>
+      <masked>false</masked>
+      <name>text</name>
+   </variable>
+   <variable>
+      <defaultValue>true</defaultValue>
+      <description></description>
+      <id>b39dd6a4-0f5d-44ba-85b9-0e5655b67c73</id>
+      <masked>false</masked>
+      <name>wait</name>
+   </variable>
+</TestCaseEntity>

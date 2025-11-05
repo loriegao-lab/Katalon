@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>selectToggleButtonSubmenuByLabelText</name>
+   <tag></tag>
+   <elementGuidId>4488fffc-1b1c-43f8-a37f-452da719f9e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[text()='${text}']//following-sibling::div//div[text()='${menuName}']/ancestor::div[@role='menuitem'])[last()]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[text()='${text}']//following-sibling::div//div[text()='${menuName}']/ancestor::div[@role='menuitem'])[last()]</value>
+      <webElementGuid>f9a0b8be-1103-4b55-8f10-3e5ed9166593</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

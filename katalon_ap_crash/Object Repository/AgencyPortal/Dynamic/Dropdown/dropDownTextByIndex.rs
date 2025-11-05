@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dropDownTextByIndex</name>
+   <tag></tag>
+   <elementGuidId>b874f3f3-138d-44f1-be7c-88a254c61a17</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[contains(@class,'dropdown')]//ancestor::md-input-container)[1]//label//span[2][text()]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[contains(@class,'dropdown')]//ancestor::md-input-container)[1]//label//span[2][text()]</value>
+      <webElementGuid>c4c9102c-6c3c-41fe-84e3-f5a193d19777</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

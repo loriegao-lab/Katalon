@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>iconByClassTextIndex</name>
+   <tag></tag>
+   <elementGuidId>11fe2acb-0600-4451-9c9c-00b1712af1fa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//i[@class='${text}'])[${index}]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//i[@class='${text}'])[${index}]</value>
+      <webElementGuid>71b4400d-530b-4c85-b903-92536cacf9ab</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

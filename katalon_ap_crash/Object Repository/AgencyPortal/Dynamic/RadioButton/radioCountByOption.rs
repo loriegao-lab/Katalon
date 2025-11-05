@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>radioCountByOption</name>
+   <tag></tag>
+   <elementGuidId>6be2e430-5be1-4612-b7d7-b63f1dafef29</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[contains(text(),'${option}')]/ancestor::md-radio-button//div[@class='md-off']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[contains(text(),'${option}')]/ancestor::md-radio-button//div[@class='md-off']</value>
+      <webElementGuid>cace212d-07fb-4212-bebf-8101cdde66b3</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

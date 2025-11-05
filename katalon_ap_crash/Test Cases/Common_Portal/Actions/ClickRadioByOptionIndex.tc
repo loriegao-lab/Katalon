@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ClickRadioByOptionIndex</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>68575634-6612-4744-9451-5498535e5cf8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5924dec7-e95d-4bd9-899b-12b3f6e17f85</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8828eccf-b3d3-4ea0-b5d8-57e794e6374d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5924dec7-e95d-4bd9-899b-12b3f6e17f85</id>
+      <masked>false</masked>
+      <name>option</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8828eccf-b3d3-4ea0-b5d8-57e794e6374d</id>
+      <masked>false</masked>
+      <name>index</name>
+   </variable>
+</TestCaseEntity>

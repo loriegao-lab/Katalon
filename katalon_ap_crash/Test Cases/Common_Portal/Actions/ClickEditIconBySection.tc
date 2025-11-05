@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ClickEditIconBySection</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b8ba454b-16a4-4c1b-9edb-d984c7708498</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>35c49b38-c85e-48a7-8f11-cd496ff06bdf</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c1c68fea-bcf5-439d-b854-92d2763d5530</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>35c49b38-c85e-48a7-8f11-cd496ff06bdf</id>
+      <masked>false</masked>
+      <name>text</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c1c68fea-bcf5-439d-b854-92d2763d5530</id>
+      <masked>false</masked>
+      <name>scroll</name>
+   </variable>
+</TestCaseEntity>

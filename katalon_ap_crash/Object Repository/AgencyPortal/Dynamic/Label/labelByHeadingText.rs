@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>labelByHeadingText</name>
+   <tag></tag>
+   <elementGuidId>7c9902b4-53f6-4e26-8310-8c2ae9a4a02f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//*[contains(text(),'${heading}')]/following::label[contains(.,'${text}')])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//*[contains(text(),'${heading}')]/following::label[contains(.,'${text}')])[1]</value>
+      <webElementGuid>f206e39b-1eaa-4301-9c4c-dac01530c3e2</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

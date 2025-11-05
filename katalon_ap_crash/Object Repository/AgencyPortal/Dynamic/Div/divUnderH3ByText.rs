@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>divUnderH3ByText</name>
+   <tag></tag>
+   <elementGuidId>3fef7865-05e5-48f2-bdda-0d5500ec6888</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//h3[text()='${title}']/../following-sibling::div//div[text()='${text}']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//h3[text()='${title}']/../following-sibling::div//div[text()='${text}']</value>
+      <webElementGuid>152fce77-9767-47f0-a4d6-4e65a47316a4</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

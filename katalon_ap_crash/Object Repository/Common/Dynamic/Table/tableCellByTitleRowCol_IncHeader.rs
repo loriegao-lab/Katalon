@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tableCellByTitleRowCol_IncHeader</name>
+   <tag></tag>
+   <elementGuidId>9b507766-8bd8-4df3-a3f2-38f19ae9ef87</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[contains(text(),'${title}')]/following::table[1]//tr[${row}]/td[${col}]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[contains(text(),'${title}')]/following::table[1]//tr[${row}]/td[${col}]</value>
+      <webElementGuid>d3f2b87c-c78a-4204-97fd-5c395f25dc9d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

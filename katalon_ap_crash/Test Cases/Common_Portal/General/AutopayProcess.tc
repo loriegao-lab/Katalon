@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AutopayProcess</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f73fcfcd-246c-4879-87f0-8fa76fe471f6</testCaseGuid>
+</TestCaseEntity>

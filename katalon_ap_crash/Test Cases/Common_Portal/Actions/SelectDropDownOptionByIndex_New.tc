@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SelectDropDownOptionByIndex_New</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1ac6f623-4256-4934-a4e8-f769b188be63</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fc9c04ed-8631-4a2b-accd-bf50d2a6ea8c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'middle'</defaultValue>
+      <description></description>
+      <id>fc9c04ed-8631-4a2b-accd-bf50d2a6ea8c</id>
+      <masked>false</masked>
+      <name>scroll</name>
+   </variable>
+</TestCaseEntity>

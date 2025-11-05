@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_auditCode</name>
+   <tag></tag>
+   <elementGuidId>67d75971-1b1a-4ff5-9831-9198260ce484</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@name='userProfile.auditCode']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@name='userProfile.auditCode']</value>
+      <webElementGuid>143dc6f0-8ed6-4fe0-9f3e-51b276e58ebb</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

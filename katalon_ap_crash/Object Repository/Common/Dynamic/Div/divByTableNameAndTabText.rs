@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>divByTableNameAndTabText</name>
+   <tag></tag>
+   <elementGuidId>43f12ad3-3a05-42e0-85b1-6ac8ef071dc7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[text()='${tableName}']/ancestor::div[@role='tabpanel'])[last()]/preceding-sibling::div[@role='tablist']//div[text()='${text}']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[text()='${tableName}']/ancestor::div[@role='tabpanel'])[last()]/preceding-sibling::div[@role='tablist']//div[text()='${text}']</value>
+      <webElementGuid>10cf4747-66b3-4a4d-8229-813976b758ce</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

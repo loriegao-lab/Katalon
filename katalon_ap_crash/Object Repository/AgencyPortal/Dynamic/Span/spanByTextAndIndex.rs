@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>spanByTextAndIndex</name>
+   <tag></tag>
+   <elementGuidId>91d55aa7-3662-4c8f-937c-673739e15223</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//span[text()='${text}'])[${index}]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//span[text()='${text}'])[${index}]</value>
+      <webElementGuid>eff38ceb-9137-425a-82be-f5bea6ae466a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

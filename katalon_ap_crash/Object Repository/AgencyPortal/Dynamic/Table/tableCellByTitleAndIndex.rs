@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tableCellByTitleAndIndex</name>
+   <tag></tag>
+   <elementGuidId>39f43006-5c05-4666-b3bc-185aa20d04c3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//td[@title='${title}'])[${index}]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//td[@title='${title}'])[${index}]</value>
+      <webElementGuid>9a6fcd48-75a8-4a3d-abfc-a00951c382e7</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

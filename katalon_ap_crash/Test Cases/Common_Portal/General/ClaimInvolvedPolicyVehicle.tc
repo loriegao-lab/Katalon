@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ClaimInvolvedPolicyVehicle</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a4295926-28e0-4867-bece-05cca1099766</testCaseGuid>
+</TestCaseEntity>

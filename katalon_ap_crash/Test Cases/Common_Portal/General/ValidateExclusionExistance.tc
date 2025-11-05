@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ValidateExclusionExistance</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b6be2316-e222-4041-8e8e-2663951a9275</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e7d0173e-825b-45a5-8507-b44e93a0e687</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>[:]</defaultValue>
+      <description></description>
+      <id>e7d0173e-825b-45a5-8507-b44e93a0e687</id>
+      <masked>false</masked>
+      <name>exclusionTypeMap</name>
+   </variable>
+</TestCaseEntity>

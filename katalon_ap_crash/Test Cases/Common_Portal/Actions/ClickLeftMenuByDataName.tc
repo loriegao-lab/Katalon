@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ClickLeftMenuByDataName</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>521ed909-2043-45ec-b8a9-8f3cd9b64256</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>33a2149b-8566-4f9c-9d56-0af620509f8f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>33a2149b-8566-4f9c-9d56-0af620509f8f</id>
+      <masked>false</masked>
+      <name>dataName</name>
+   </variable>
+</TestCaseEntity>

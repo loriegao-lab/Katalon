@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tableCellSpanTextByRowCol</name>
+   <tag></tag>
+   <elementGuidId>78e73d8b-9661-4c7b-a896-fc993521cca9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div//tbody//tr[${row}]//td[${col}]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div//tbody//tr[${row}]//td[${col}]/span</value>
+      <webElementGuid>c8e4ca6e-5cbc-48dc-9d2a-94dc2b8401fc</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

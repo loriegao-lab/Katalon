@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tabByIndex</name>
+   <tag></tag>
+   <elementGuidId>1ef1e627-b300-4188-8d78-1a4a7461fc38</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//a[@ng-click='switchTab(tab)'])[${index}]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//a[@ng-click='switchTab(tab)'])[${index}]</value>
+      <webElementGuid>0cb2fb62-6432-47dc-8cc1-d519496d7b6a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

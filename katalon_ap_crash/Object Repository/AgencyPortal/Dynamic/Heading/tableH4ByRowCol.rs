@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tableH4ByRowCol</name>
+   <tag></tag>
+   <elementGuidId>f51a2471-0b3b-49aa-b4d0-d43445970e6c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//tbody//tr[${row}]//td[${col}]//h4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//tbody//tr[${row}]//td[${col}]//h4</value>
+      <webElementGuid>4ed4c545-5630-4884-bcd6-318d98092955</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

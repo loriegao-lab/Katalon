@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_GwMsgByIndex</name>
+   <tag></tag>
+   <elementGuidId>900bd251-30f7-4753-bbf3-ca146351ff63</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[@class=&quot;gw-WebMessage&quot;]//div[@class=&quot;gw-message&quot;])[${index}]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[@class=&quot;gw-WebMessage&quot;]//div[@class=&quot;gw-message&quot;])[${index}]</value>
+      <webElementGuid>c25ff042-2b70-45cb-ba01-29cb46bd23e2</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

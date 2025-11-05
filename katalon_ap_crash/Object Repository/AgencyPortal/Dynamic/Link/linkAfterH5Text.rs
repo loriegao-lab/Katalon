@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>linkAfterH5Text</name>
+   <tag></tag>
+   <elementGuidId>e2b39ee8-e279-47bb-9011-86aa737cd8ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//h5[text()='${text}']//..//..//a[text()]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//h5[text()='${text}']//..//..//a[text()]</value>
+      <webElementGuid>983b39fb-42d3-4b50-88d8-fb5b462ce50d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

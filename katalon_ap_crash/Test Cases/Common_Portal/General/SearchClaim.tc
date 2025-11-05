@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SearchClaim</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8a8d0423-00a4-4467-b36d-10c9399975d6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>21a138e2-eb26-45de-a375-cb0b90caa02d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>21a138e2-eb26-45de-a375-cb0b90caa02d</id>
+      <masked>false</masked>
+      <name>claimNumber</name>
+   </variable>
+</TestCaseEntity>

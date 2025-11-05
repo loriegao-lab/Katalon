@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tableBtnByTextColAndBtnText_v8</name>
+   <tag></tag>
+   <elementGuidId>c387e229-e870-4811-a2ea-e81cb842076d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[text()='${text1}']//ancestor::tr)[last()]//td[${col}]//a[text()='${text2}']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[text()='${text1}']//ancestor::tr)[last()]//td[${col}]//a[text()='${text2}']</value>
+      <webElementGuid>1645f255-accc-4aff-956c-fc1671a381e4</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

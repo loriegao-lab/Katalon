@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tableRadioBtnByText</name>
+   <tag></tag>
+   <elementGuidId>23ce5d71-ee81-47bd-a497-524dbd56d72f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//table/tbody//td[contains(text(),'${text}')]/preceding-sibling::td//div[@class='md-off']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//table/tbody//td[contains(text(),'${text}')]/preceding-sibling::td//div[@class='md-off']</value>
+      <webElementGuid>3addb4ef-5804-4707-9042-2017f055b205</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

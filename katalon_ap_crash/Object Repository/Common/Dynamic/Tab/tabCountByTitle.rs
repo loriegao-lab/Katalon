@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tabCountByTitle</name>
+   <tag></tag>
+   <elementGuidId>55907bd8-33a0-46fa-b5a8-d266b97f6b8c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[text()='${title}']/ancestor::div[@role='tablist']/following-sibling::*//div[@role='tablist'])[1]//div[@role='tab']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[text()='${title}']/ancestor::div[@role='tablist']/following-sibling::*//div[@role='tablist'])[1]//div[@role='tab']</value>
+      <webElementGuid>bdcf96e4-6434-40aa-91c8-69ec5a659b38</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

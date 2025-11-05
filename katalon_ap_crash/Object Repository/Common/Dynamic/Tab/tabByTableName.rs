@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tabByTableName</name>
+   <tag></tag>
+   <elementGuidId>b008b4ff-e72b-4d14-b0d2-98beb07be3ae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[text()='${title}']/ancestor::div[@role='tablist']/following-sibling::*//div[@role='tablist']//div[@role='tab']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[text()='${title}']/ancestor::div[@role='tablist']/following-sibling::*//div[@role='tablist']//div[@role='tab']</value>
+      <webElementGuid>4027e66a-43f2-4d85-80c0-0e1f99dec581</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

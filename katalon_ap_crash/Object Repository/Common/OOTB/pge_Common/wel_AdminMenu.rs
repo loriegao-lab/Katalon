@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>wel_AdminMenu</name>
+   <tag></tag>
+   <elementGuidId>45e441f6-dfaf-4e45-ad49-2d01ca579c3f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id = 'TabBar-AdminTab']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6385aee6-541b-4d7f-bc32-a6c130c67f39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>TabBar-AdminTab</value>
+      <webElementGuid>2adb515c-3966-4b9b-9c0f-bce891cc0e8e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

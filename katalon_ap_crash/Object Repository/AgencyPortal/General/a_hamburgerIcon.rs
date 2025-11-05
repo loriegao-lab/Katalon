@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_hamburgerIcon</name>
+   <tag></tag>
+   <elementGuidId>7ae73899-42fa-43a1-a7a0-0bef20b2e0f0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@class='click-for-navigation']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[@class='click-for-navigation']</value>
+      <webElementGuid>56dc7101-388a-4d3c-a0cc-39907fd9067c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

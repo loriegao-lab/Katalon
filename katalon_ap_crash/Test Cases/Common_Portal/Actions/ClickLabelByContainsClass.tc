@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ClickLabelByContainsClass</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>96e8cade-5679-4e4d-8b4a-16bb6382efdf</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tableBtnByTextAndIndex</name>
+   <tag></tag>
+   <elementGuidId>9202b550-904c-472f-b04e-5e1c12b94e44</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//table//tr[not(contains(@class,'gw-header'))]//div[text()='${text}']/ancestor::tr[1]//td//div[@role='button'])[${index}]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//table//tr[not(contains(@class,'gw-header'))]//div[text()='${text}']/ancestor::tr[1]//td//div[@role='button'])[${index}]</value>
+      <webElementGuid>20f240a0-6d33-4903-a96e-0cd9c3fa322e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

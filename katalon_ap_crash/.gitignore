@@ -1,0 +1,12 @@
+/.cache/*
+/Libs/*
+/.classpath
+/bin/*
+/GW10 Automation.prj
+/.settings/*
+/Reports/*
+/.project
+/GW10 Automation.prj
+*.class
+/.classpath
+/bin/

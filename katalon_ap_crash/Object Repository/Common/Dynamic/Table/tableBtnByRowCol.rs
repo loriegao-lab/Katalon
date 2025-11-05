@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tableBtnByRowCol</name>
+   <tag></tag>
+   <elementGuidId>e767da51-3fb9-41f4-a964-60649767e3ed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@role='treegrid']//table//tr[${row}]//td[${col}]//div[@role='button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@role='treegrid']//table//tr[${row}]//td[${col}]//div[@role='button']</value>
+      <webElementGuid>b7493453-b287-4f27-8f16-51267a8a6e0d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

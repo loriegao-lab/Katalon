@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SearchPolicy</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c2cea0d5-4670-451a-ad4d-61dc62f0f95e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1ab4c641-0d20-4b00-975b-f35e918f27a3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1ab4c641-0d20-4b00-975b-f35e918f27a3</id>
+      <masked>false</masked>
+      <name>policyNumber</name>
+   </variable>
+</TestCaseEntity>

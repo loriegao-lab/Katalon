@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>linkCount</name>
+   <tag></tag>
+   <elementGuidId>5e620d79-0cd8-48b4-9129-353cac15b1fb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div//tr//td//a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div//tr//td//a</value>
+      <webElementGuid>53985370-1767-4c27-ac7f-d5220efbe5c3</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

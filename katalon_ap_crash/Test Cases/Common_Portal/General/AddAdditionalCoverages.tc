@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AddAdditionalCoverages</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>63fbfbba-88e6-4656-beaf-004dbc994c5d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8656b172-5b11-46af-8a92-e1b4d974e111</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>[]</defaultValue>
+      <description></description>
+      <id>8656b172-5b11-46af-8a92-e1b4d974e111</id>
+      <masked>false</masked>
+      <name>coverageList</name>
+   </variable>
+</TestCaseEntity>

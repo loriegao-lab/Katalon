@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>radioByOption</name>
+   <tag></tag>
+   <elementGuidId>e04b2c02-2060-448b-904f-052879531aad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[contains(text(),'${option}')]/preceding-sibling::div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[contains(text(),'${option}')]/preceding-sibling::div</value>
+      <webElementGuid>91a81cc0-6ef6-4baa-8f65-519743442e37</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

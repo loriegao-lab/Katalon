@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>divErrorMsgBody</name>
+   <tag></tag>
+   <elementGuidId>3c801f15-5cd0-4799-814d-9a513fe83121</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[@class='gw-collpase__alert__body']/div//div[@class='text']//span)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[@class='gw-collpase__alert__body']/div//div[@class='text']//span)</value>
+      <webElementGuid>ad5d930c-e0b4-4ad6-a01a-bafafcd8c8b3</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

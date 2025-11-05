@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ClaimNonPolicyVehicle</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9953cf0b-44e0-4c87-9f3c-c0b5dec4b337</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>62181fbd-af10-439c-b51a-bb7557b95e6a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c868ba65-e429-4284-b487-d7647b09f07f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'5FNYF3H51ABB00973'</defaultValue>
+      <description></description>
+      <id>62181fbd-af10-439c-b51a-bb7557b95e6a</id>
+      <masked>false</masked>
+      <name>VIN</name>
+   </variable>
+   <variable>
+      <defaultValue>'Owned'</defaultValue>
+      <description></description>
+      <id>c868ba65-e429-4284-b487-d7647b09f07f</id>
+      <masked>false</masked>
+      <name>vehicleType</name>
+   </variable>
+</TestCaseEntity>

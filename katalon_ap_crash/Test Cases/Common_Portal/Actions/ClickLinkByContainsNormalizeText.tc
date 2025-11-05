@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ClickLinkByContainsNormalizeText</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>244369b0-62bd-497f-9249-adfcfd6cc68e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>25cfe52a-9c8e-4d3e-b257-07cd73fd8e18</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>25cfe52a-9c8e-4d3e-b257-07cd73fd8e18</id>
+      <masked>false</masked>
+      <name>text</name>
+   </variable>
+</TestCaseEntity>

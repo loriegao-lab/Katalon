@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ReferToUnderwriterScreen</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9d41d8ae-3ac1-40fc-9cdf-c357e4ffe28c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1af74c5c-1ad2-43f1-989d-86ba222ef7dd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'THIS NEW BUSINESS QUOTE HAS BEEN SUBMITTED FOR REVIEW!'</defaultValue>
+      <description></description>
+      <id>1af74c5c-1ad2-43f1-989d-86ba222ef7dd</id>
+      <masked>false</masked>
+      <name>transactionSubmissionMsg</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_ModalTitle</name>
+   <tag></tag>
+   <elementGuidId>a0d61257-c4c2-4872-b370-8907d3dee1ae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class='modal-header']//h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class='modal-header']//h2</value>
+      <webElementGuid>00baa201-0527-4b5e-bc63-5673f51e40ee</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

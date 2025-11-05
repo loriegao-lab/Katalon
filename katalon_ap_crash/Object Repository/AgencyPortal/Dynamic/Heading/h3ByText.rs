@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3ByText</name>
+   <tag></tag>
+   <elementGuidId>e9df83ce-decb-4797-b17a-2fe73782e043</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//h3[text()='${text}']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//h3[text()='${text}']</value>
+      <webElementGuid>2d3fc009-22af-49f9-b584-96f771a41bee</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

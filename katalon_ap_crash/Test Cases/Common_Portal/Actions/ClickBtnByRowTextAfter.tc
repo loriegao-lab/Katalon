@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ClickBtnByRowTextAfter</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5e52c366-76ef-49a9-959f-c0d96e67c990</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>46ce08a0-6793-4e53-a2ae-d2d48c6cdb04</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ceb1a7d7-90c5-4e50-8c63-e9a41b297d79</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>46ce08a0-6793-4e53-a2ae-d2d48c6cdb04</id>
+      <masked>false</masked>
+      <name>text</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ceb1a7d7-90c5-4e50-8c63-e9a41b297d79</id>
+      <masked>false</masked>
+      <name>label</name>
+   </variable>
+</TestCaseEntity>

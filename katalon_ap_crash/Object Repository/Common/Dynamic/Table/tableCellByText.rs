@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tableCellByText</name>
+   <tag></tag>
+   <elementGuidId>53737564-b845-4ca5-9027-012e2474ca09</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@role='treegrid']//table//tr//td//div[text()='${text}']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@role='treegrid']//table//tr//td//div[text()='${text}']</value>
+      <webElementGuid>31e1ed50-1599-41f9-9a20-b0899f5c125c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>radioBtnByOptionIndex</name>
+   <tag></tag>
+   <elementGuidId>ea311ef9-723f-4051-a3df-d1a759ceec97</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//span[contains(text(),'${option}')]/ancestor::md-radio-button)[${index}]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//span[contains(text(),'${option}')]/ancestor::md-radio-button)[${index}]</value>
+      <webElementGuid>ff09714d-4fc2-4a42-bc0b-d6e81184643c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

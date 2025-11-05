@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ClickBtnByTextBefore</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ef8bb38b-5aef-445b-88e3-67a719070763</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7ce7fa68-3837-4594-97df-4e059f8a0194</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4289b989-4b7a-4f36-a60e-74b55f10dec8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7ce7fa68-3837-4594-97df-4e059f8a0194</id>
+      <masked>false</masked>
+      <name>text</name>
+   </variable>
+   <variable>
+      <defaultValue>true</defaultValue>
+      <description></description>
+      <id>4289b989-4b7a-4f36-a60e-74b55f10dec8</id>
+      <masked>false</masked>
+      <name>wait</name>
+   </variable>
+</TestCaseEntity>

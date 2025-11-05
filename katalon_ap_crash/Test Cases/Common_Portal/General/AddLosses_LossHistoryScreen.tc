@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>add loss to loss history screen</description>
+   <name>AddLosses_LossHistoryScreen</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d6158cee-1c3b-4549-9b78-231113e11a6e</testCaseGuid>
+</TestCaseEntity>

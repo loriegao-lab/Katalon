@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>divUnderSmallText</name>
+   <tag></tag>
+   <elementGuidId>788ff4da-857b-4f03-8f1b-8f4d1d5f6cf7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//small[text()='${text}']/following-sibling::div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//small[text()='${text}']/following-sibling::div</value>
+      <webElementGuid>648b1d2f-0935-4766-80f2-17af0a5f710c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

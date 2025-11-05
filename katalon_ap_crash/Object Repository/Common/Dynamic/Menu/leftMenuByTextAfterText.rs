@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>leftMenuByTextAfterText</name>
+   <tag></tag>
+   <elementGuidId>98cf60c2-897c-4da1-a9d1-eb933b480497</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id='gw-west-panel']//div[text()='${text1}']/following::div[text()='${text2}']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id='gw-west-panel']//div[text()='${text1}']/following::div[text()='${text2}']</value>
+      <webElementGuid>beb7a3f8-c2d8-44c6-b6b7-e84fa725f250</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

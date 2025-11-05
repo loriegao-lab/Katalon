@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tableRadioDivByRowCol</name>
+   <tag></tag>
+   <elementGuidId>7b08948e-b04b-492f-9df6-ad7cca8312d1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//table/tbody/tr[${row}]/td[${col}]//div[@class='md-off']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//table/tbody/tr[${row}]/td[${col}]//div[@class='md-off']</value>
+      <webElementGuid>41010efc-3b12-4256-83b2-ee2ae8d4cd9e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

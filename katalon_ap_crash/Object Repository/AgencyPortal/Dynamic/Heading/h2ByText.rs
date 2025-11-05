@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2ByText</name>
+   <tag></tag>
+   <elementGuidId>e93d785e-0efc-41ac-adbf-28a0b01e661a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//h2[text()='${text}']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//h2[text()='${text}']</value>
+      <webElementGuid>f577be98-71f0-488e-b237-8b5c2ac03e07</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

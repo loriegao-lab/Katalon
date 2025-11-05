@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tableTabByTitleAndIndex</name>
+   <tag></tag>
+   <elementGuidId>d30ffe1a-a763-425b-b80c-dd78b57a1b14</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//td[@title='${title}']//a[@tabindex='0'])[${index}]</value>
+      <webElementGuid>69242e83-5711-4dc5-bff6-11b69c850966</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

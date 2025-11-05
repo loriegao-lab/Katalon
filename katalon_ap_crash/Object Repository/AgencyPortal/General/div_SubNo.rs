@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_SubNo</name>
+   <tag></tag>
+   <elementGuidId>7eacaec1-1428-40cb-895c-28be754e5742</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//h5[text()]/following-sibling::div[text()]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//h5[text()]/following-sibling::div[text()]</value>
+      <webElementGuid>2dd1d895-caab-4d6e-a05c-0c46e32fd1b4</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

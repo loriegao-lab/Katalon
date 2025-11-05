@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h5_Lob</name>
+   <tag></tag>
+   <elementGuidId>29086f93-d169-4fd6-b30d-d056aa97d146</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//h5[text()]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//h5[text()]</value>
+      <webElementGuid>5362b6ed-4a97-482c-969a-07820ea83b6a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

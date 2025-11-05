@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tableCheckboxBeforeText</name>
+   <tag></tag>
+   <elementGuidId>6803d519-4432-40e9-98b0-dfa1d9734aa0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[text()='${text}']/ancestor::tr)[last()]//div[@role='checkbox']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[text()='${text}']/ancestor::tr)[last()]//div[@role='checkbox']</value>
+      <webElementGuid>c3dc33d9-aa9d-4ae2-8953-e1d3f996b7e8</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

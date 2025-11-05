@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tableRowByTitleAndIndex</name>
+   <tag></tag>
+   <elementGuidId>b21e8cd0-725b-43b0-b452-22a6fb957bb5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[text()='${title}']/following::table[1]//tr[not(contains(@class,'gw-header'))])[${index}]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[text()='${title}']/following::table[1]//tr[not(contains(@class,'gw-header'))])[${index}]</value>
+      <webElementGuid>f09592d6-9681-495a-937a-b5573115b30a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

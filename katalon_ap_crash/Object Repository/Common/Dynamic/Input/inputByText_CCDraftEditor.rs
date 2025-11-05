@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>inputByText_CCDraftEditor</name>
+   <tag></tag>
+   <elementGuidId>3d02a470-8e2c-401f-9b32-c8d5e3d1a913</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//label[text()='${text}']/following-sibling::input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//label[text()='${text}']/following-sibling::input</value>
+      <webElementGuid>340e0605-d35b-41ec-8ca8-cc5131090dce</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

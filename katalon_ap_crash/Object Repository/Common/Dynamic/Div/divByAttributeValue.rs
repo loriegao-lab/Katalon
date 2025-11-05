@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>divByAttributeValue</name>
+   <tag></tag>
+   <elementGuidId>0be52ab1-b3a6-41fe-b89c-cae51b2d7e41</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@${attribute}='${value}']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@${attribute}='${value}']</value>
+      <webElementGuid>f2d4e29a-b4b3-49dc-a2f9-071214b34bc6</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

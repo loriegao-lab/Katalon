@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>divByClassNameAndIndex</name>
+   <tag></tag>
+   <elementGuidId>46c9654c-9c79-4c80-ba6b-00b990469c54</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[@class='${text}'])[${index}]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[@class='${text}'])[${index}]</value>
+      <webElementGuid>035b7717-d39c-4ae4-8cfc-19c2b783df51</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ClickTableCheckboxByContainsText</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a4542a78-c371-452b-b34e-6f0f1b0e23bb</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>132cfff1-b461-4d85-8996-c3716ff220e2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'text'</defaultValue>
+      <description></description>
+      <id>132cfff1-b461-4d85-8996-c3716ff220e2</id>
+      <masked>false</masked>
+      <name>text</name>
+   </variable>
+</TestCaseEntity>

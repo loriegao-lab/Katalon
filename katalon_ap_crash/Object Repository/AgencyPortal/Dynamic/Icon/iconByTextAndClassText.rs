@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>iconByTextAndClassText</name>
+   <tag></tag>
+   <elementGuidId>8656e779-51ed-4d4c-8ed4-4ac7cc56987c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[text()='${text}']//parent::*//i[@class='${classText}']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[text()='${text}']//parent::*//i[@class='${classText}']</value>
+      <webElementGuid>33953324-7789-4f1e-b896-7276a44cf6c3</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

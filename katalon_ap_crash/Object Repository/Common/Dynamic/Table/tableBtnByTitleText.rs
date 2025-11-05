@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tableBtnByTitleText</name>
+   <tag></tag>
+   <elementGuidId>7806b538-e329-476c-94a6-f62e86fc2ae7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//*[text()=&quot;${title}&quot;]//following::div//div[text()='${text}']//parent::div[@role='button'])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//*[text()=&quot;${title}&quot;]//following::div//div[text()='${text}']//parent::div[@role='button'])[1]</value>
+      <webElementGuid>fe112119-5734-436b-a708-c97e109a6139</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

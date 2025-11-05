@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>findTableByIndex</name>
+   <tag></tag>
+   <elementGuidId>640bd8de-4e1d-453a-ae30-c00743aee2d7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//table)[${index}]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//table)[${index}]</value>
+      <webElementGuid>fe7ae5e7-2b48-4d65-92b4-d3a34625d7bf</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

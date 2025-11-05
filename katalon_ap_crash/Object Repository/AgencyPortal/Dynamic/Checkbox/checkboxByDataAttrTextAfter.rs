@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>checkboxByDataAttrTextAfter</name>
+   <tag></tag>
+   <elementGuidId>78d2731e-5f40-498b-b92e-f6ac18953191</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[contains(@data-attr,'${text}')]/ancestor::td//preceding-sibling::td//md-checkbox</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[contains(@data-attr,'${text}')]/ancestor::td//preceding-sibling::td//md-checkbox</value>
+      <webElementGuid>52de7ddf-4ea4-4026-b9be-4db8d871e348</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

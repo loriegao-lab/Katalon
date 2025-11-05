@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tableRowCountByTitle</name>
+   <tag></tag>
+   <elementGuidId>f1f829ca-ca69-45ca-acde-2a48d20d8dbd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//span[text()='${title}']/ancestor::table)[last()]//tbody//tr[not(contains(@class,'gw-header'))]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//span[text()='${title}']/ancestor::table)[last()]//tbody//tr[not(contains(@class,'gw-header'))]</value>
+      <webElementGuid>b4231ad8-8108-488f-a726-9894351d377d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

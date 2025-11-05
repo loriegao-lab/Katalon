@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>divSiblingDivByText</name>
+   <tag></tag>
+   <elementGuidId>a5aa0679-a326-4aef-b357-09f1e3b07396</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[text()='${text}']/following-sibling::div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[text()='${text}']/following-sibling::div</value>
+      <webElementGuid>3e447c3e-3aff-4e0b-9e42-761e5f9e6b7d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

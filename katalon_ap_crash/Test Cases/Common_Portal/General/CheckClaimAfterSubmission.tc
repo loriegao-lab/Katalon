@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CheckClaimAfterSubmission</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b2d50e3e-bc9a-4fc5-ab10-bf3d01be9451</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>221e1680-fad5-4cd7-8c58-f7ac8a69216e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>84845712-cb41-424b-bb5e-8f03e1a24459</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>221e1680-fad5-4cd7-8c58-f7ac8a69216e</id>
+      <masked>false</masked>
+      <name>line</name>
+   </variable>
+   <variable>
+      <defaultValue>false</defaultValue>
+      <description></description>
+      <id>84845712-cb41-424b-bb5e-8f03e1a24459</id>
+      <masked>false</masked>
+      <name>phPortalLogin</name>
+   </variable>
+</TestCaseEntity>

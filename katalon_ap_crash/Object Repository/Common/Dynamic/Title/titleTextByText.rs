@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>titleTextByText</name>
+   <tag></tag>
+   <elementGuidId>d0e506db-257c-4886-9341-326c51753007</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class='gw-TitleBar--title']/..//div[text()='${text}']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class='gw-TitleBar--title']/..//div[text()='${text}']</value>
+      <webElementGuid>8918881b-f456-4ed6-acec-7e26f4bbdf19</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

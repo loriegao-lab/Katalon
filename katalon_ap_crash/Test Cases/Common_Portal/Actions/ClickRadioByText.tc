@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ClickRadioByText</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>743039e3-40b5-4451-a486-ace5f294cc3f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>163fd2a1-8c32-4ccd-8c86-e253a6ec4bf3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>163fd2a1-8c32-4ccd-8c86-e253a6ec4bf3</id>
+      <masked>false</masked>
+      <name>text</name>
+   </variable>
+</TestCaseEntity>

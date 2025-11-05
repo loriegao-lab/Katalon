@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>selectOptionByTitleLableAndOption</name>
+   <tag></tag>
+   <elementGuidId>bd5fb5d9-c13f-4e1a-abba-015a7c0888a5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>&#xd;
+//div[text()='${title}']//ancestor::div[contains(@class,'InputGroupWidget')]//div[text()='${label}']//following::select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>&#xd;
+//div[text()='${title}']//ancestor::div[contains(@class,'InputGroupWidget')]//div[text()='${label}']//following::select</value>
+      <webElementGuid>0b09c3a2-16ae-43dc-9761-66a6a2619ebc</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

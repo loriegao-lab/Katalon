@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>linkByIndex</name>
+   <tag></tag>
+   <elementGuidId>be58e643-0a54-4ddb-bb70-206f21a7785c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div//tr//td//a)[${index}]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div//tr//td//a)[${index}]</value>
+      <webElementGuid>77ceb1cc-f762-4879-bcc0-5f19b7b908b2</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

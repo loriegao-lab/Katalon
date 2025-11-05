@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_UWLongDes</name>
+   <tag></tag>
+   <elementGuidId>9e184684-6bce-4e93-90a3-f3b49761bd47</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id='RiskApprovalDetailsPopup-0-IssueDetailsDV-IssueLongDescription']//div[text()]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id='RiskApprovalDetailsPopup-0-IssueDetailsDV-IssueLongDescription']//div[text()]</value>
+      <webElementGuid>23cedc8b-c68e-4abb-9080-7302e3b40265</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

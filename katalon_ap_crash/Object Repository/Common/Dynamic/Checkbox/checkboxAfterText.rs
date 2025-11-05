@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>checkboxAfterText</name>
+   <tag></tag>
+   <elementGuidId>38285968-267e-4e93-a426-2747d8492645</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[text()='${text}']/following-sibling::div//div[@role='checkbox']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[text()='${text}']/following-sibling::div//div[@role='checkbox']</value>
+      <webElementGuid>32f6e51f-1e33-4c39-9775-a0af2dbae894</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tableSelectedOptionByRowCol</name>
+   <tag></tag>
+   <elementGuidId>6f2319cb-ecf8-4578-a61e-9c9bba1cdb74</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div//tbody//tr[${row}]//td[${col}]//select//option[@selected]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div//tbody//tr[${row}]//td[${col}]//select//option[@selected]</value>
+      <webElementGuid>9fb6ab2e-52c5-41d6-b892-c0f37d34a3cc</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

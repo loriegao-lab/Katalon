@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>spanMsgTypeByIndex</name>
+   <tag></tag>
+   <elementGuidId>d94f873f-d342-415d-82dd-7ba46381dd4a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[@model=&quot;errorMsgs['payAndIssue']&quot;]//div[@class='gw-collpase__alert__body']//div//p//span)[${index}]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[@model=&quot;errorMsgs['payAndIssue']&quot;]//div[@class='gw-collpase__alert__body']//div//p//span)[${index}]</value>
+      <webElementGuid>f9cf37d1-7981-4ee6-a393-27c86637cb2e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

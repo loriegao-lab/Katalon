@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>paraByAttribute</name>
+   <tag></tag>
+   <elementGuidId>5ad4fd6c-de02-4604-8ef9-92685c363807</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//p[@attribute='${text}']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//p[@attribute='${text}']</value>
+      <webElementGuid>bae4aa9c-a19c-45d9-a01d-9eab13b1e72e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

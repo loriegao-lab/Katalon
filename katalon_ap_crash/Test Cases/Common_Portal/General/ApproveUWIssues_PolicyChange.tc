@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>approve uw issues without issuing policy</description>
+   <name>ApproveUWIssues_PolicyChange</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b5407858-d514-41a1-9d7c-1f6cfb4afba3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ed873f0b-eab1-4f10-9fc4-67b849f57cff</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>502cc892-1196-46ce-8b30-0af262af767e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ed873f0b-eab1-4f10-9fc4-67b849f57cff</id>
+      <masked>false</masked>
+      <name>policyNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>502cc892-1196-46ce-8b30-0af262af767e</id>
+      <masked>false</masked>
+      <name>policyChangeTrxnNum</name>
+   </variable>
+</TestCaseEntity>

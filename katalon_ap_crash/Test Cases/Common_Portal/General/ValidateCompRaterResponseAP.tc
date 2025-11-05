@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ValidateCompRaterResponseAP</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>501726de-40c9-47a5-aeee-3e916a27e8e9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>454648e3-1031-4408-a809-a2803600ca97</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>378414a2-112c-417e-8d15-0dc21ac99178</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'5000018416'</defaultValue>
+      <description></description>
+      <id>454648e3-1031-4408-a809-a2803600ca97</id>
+      <masked>false</masked>
+      <name>submissionNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>'01657-002 Steven Cork'</defaultValue>
+      <description></description>
+      <id>378414a2-112c-417e-8d15-0dc21ac99178</id>
+      <masked>false</masked>
+      <name>producerCode</name>
+   </variable>
+</TestCaseEntity>

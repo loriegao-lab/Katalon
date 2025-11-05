@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>divByContainsTextIndex</name>
+   <tag></tag>
+   <elementGuidId>dbe16fbe-0245-4d0d-bea8-6ba18592260b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[contains(text(),'${text}')])[${index}]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[contains(text(),'${text}')])[${index}]</value>
+      <webElementGuid>ad0c7e44-f507-43a1-98a5-7cd4759ec061</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

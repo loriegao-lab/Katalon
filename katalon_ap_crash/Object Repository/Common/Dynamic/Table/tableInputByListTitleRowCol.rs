@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tableInputByListTitleRowCol</name>
+   <tag></tag>
+   <elementGuidId>1e512da7-e667-4211-b266-5d2ac9771d91</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[text()='${title}']/following::tr[not(contains(@class,'gw-header'))][${row}]/td[${col}]//input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[text()='${title}']/following::tr[not(contains(@class,'gw-header'))][${row}]/td[${col}]//input</value>
+      <webElementGuid>c3c5d8f7-9def-4824-b3ed-07bd436784e1</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

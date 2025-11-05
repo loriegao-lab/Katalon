@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tableCellByTextCol_v8</name>
+   <tag></tag>
+   <elementGuidId>c55b223d-29b0-4b58-a649-d11a5858225d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[text()='${text}']//ancestor::tr)[last()]//td[${col}]//div[text()]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[text()='${text}']//ancestor::tr)[last()]//td[${col}]//div[text()]</value>
+      <webElementGuid>99f06188-1681-46c9-9147-20ec11f16af2</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

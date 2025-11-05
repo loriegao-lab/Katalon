@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tableRadioByText</name>
+   <tag></tag>
+   <elementGuidId>3f4bce59-d412-4d2d-a730-2ecfe84b1f52</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//table/tbody//td[contains(text(),'${text}')]/preceding-sibling::td//md-radio-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//table/tbody//td[contains(text(),'${text}')]/preceding-sibling::td//md-radio-button</value>
+      <webElementGuid>89ff5c3f-2fd2-4314-8ea9-a3c2c377b938</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

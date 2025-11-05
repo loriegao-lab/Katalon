@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tableCellByTitleTextIndexFollowingDistance</name>
+   <tag></tag>
+   <elementGuidId>1ddc208c-1456-427f-b5fd-089ee4b15451</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[contains(text(),'${title}')]/following::table[1]//tr[not(contains(@class,'gw-header'))]/td//div[text()='${text}'])[${index}]/ancestor::td/following-sibling::td[${distance}]//div[text()]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[contains(text(),'${title}')]/following::table[1]//tr[not(contains(@class,'gw-header'))]/td//div[text()='${text}'])[${index}]/ancestor::td/following-sibling::td[${distance}]//div[text()]</value>
+      <webElementGuid>aa13c537-d19f-4281-91e6-1552447c0404</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

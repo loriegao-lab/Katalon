@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tableColumnByIndex</name>
+   <tag></tag>
+   <elementGuidId>0445c7b5-4ff7-4a7f-9c14-535055ecbd3d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div//table//tr[1]//td[last()]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div//table//tr[1]//td[last()]</value>
+      <webElementGuid>507d1e65-fab8-466b-accd-bf46723d2031</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

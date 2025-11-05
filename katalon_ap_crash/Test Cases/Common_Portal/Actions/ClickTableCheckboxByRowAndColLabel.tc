@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ClickTableCheckboxByRowAndColLabel</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b511a10e-4251-4949-b1ca-610f9f43d5b4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a6708491-7bb0-40f5-b341-83e2c129b7dd</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3de3b410-abe3-4dab-80b8-791421050fbe</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a6708491-7bb0-40f5-b341-83e2c129b7dd</id>
+      <masked>false</masked>
+      <name>rowLabel</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3de3b410-abe3-4dab-80b8-791421050fbe</id>
+      <masked>false</masked>
+      <name>colLabel</name>
+   </variable>
+</TestCaseEntity>

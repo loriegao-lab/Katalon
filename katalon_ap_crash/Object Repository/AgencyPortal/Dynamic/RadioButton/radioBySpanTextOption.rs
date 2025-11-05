@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>radioBySpanTextOption</name>
+   <tag></tag>
+   <elementGuidId>f827056c-711f-4c55-83a6-676acc4ec09d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[text()='${text}']/ancestor::div//md-radio-button//span[contains(text(),'${option}')]/ancestor::md-radio-button//div[@class='md-off']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[text()='${text}']/ancestor::div//md-radio-button//span[contains(text(),'${option}')]/ancestor::md-radio-button//div[@class='md-off']</value>
+      <webElementGuid>e5e80a14-992a-4426-8603-7221b6bb9bd6</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

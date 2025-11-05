@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_PageTitle</name>
+   <tag></tag>
+   <elementGuidId>eaecb26a-25fd-4050-9e3d-72b04474b6e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//h2[@class='modal-title']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//h2[@class='modal-title']</value>
+      <webElementGuid>c9e4c54c-d2dd-4748-ad96-5c620f995e8f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

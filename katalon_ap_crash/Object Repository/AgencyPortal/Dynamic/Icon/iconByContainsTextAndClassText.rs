@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>iconByContainsTextAndClassText</name>
+   <tag></tag>
+   <elementGuidId>a11dba82-98a1-4a95-8d9a-5842343b6c59</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[contains(text(),'${text}')]//parent::*//i[contains(@class,'${classText}')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[contains(text(),'${text}')]//parent::*//i[contains(@class,'${classText}')]</value>
+      <webElementGuid>ed168795-f1c9-4774-9a2e-34735ee4f8ed</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

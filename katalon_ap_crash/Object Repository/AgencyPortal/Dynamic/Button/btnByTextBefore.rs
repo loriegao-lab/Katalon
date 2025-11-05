@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnByTextBefore</name>
+   <tag></tag>
+   <elementGuidId>77d6991e-add0-436b-805f-95a85e8639c6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//label[text()='${text}']/following-sibling::div//button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//label[text()='${text}']/following-sibling::div//button</value>
+      <webElementGuid>a6601615-4025-4e35-977f-967bf629ccd3</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

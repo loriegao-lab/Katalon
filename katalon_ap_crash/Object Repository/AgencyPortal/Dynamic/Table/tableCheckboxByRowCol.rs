@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tableCheckboxByRowCol</name>
+   <tag></tag>
+   <elementGuidId>e2116ae2-48f9-485d-a176-d209981b4aa9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//table/tbody/tr[${row}]/td[${col}]//md-checkbox</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//table/tbody/tr[${row}]/td[${col}]//md-checkbox</value>
+      <webElementGuid>d0408663-4e4a-4ce5-b561-a29186c88b04</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
